@@ -503,32 +503,8 @@ Text GLabel 17800 650  0    50   Input ~ 0
 col16
 Wire Wire Line
 	17800 650  17800 950 
-$Comp
-L MX_Alps_Hybrid:MX-NoLED K_15
-U 1 1 00000151
-P 17400 1000
-F 0 "K_15" H 17400 1233 60  0000 C CNN
-F 1 "KEYSW" H 17400 900 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 17400 1000 60  0001 C CNN
-F 3 "" H 17400 1000 60  0000 C CNN
-	1    17400 1000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D_15
-U 1 1 00000150
-P 17350 1300
-F 0 "D_15" V 17420 1200 50  0000 R CNN
-F 1 "D" V 17330 1200 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 17050 1250 50  0001 C CNN
-F 3 "~" H 17050 1250 50  0001 C CNN
-	1    17350 1300
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	17550 950  17800 950 
-Wire Wire Line
-	17350 1150 17350 1200
 Connection ~ 17800 950 
 Text GLabel 900  2400 0    50   Input ~ 0
 row1
@@ -926,32 +902,8 @@ Wire Wire Line
 	16350 2150 16350 2200
 Connection ~ 16800 1950
 Connection ~ 16350 2400
-$Comp
-L MX_Alps_Hybrid:MX-NoLED K_31
-U 1 1 00000311
-P 17400 2000
-F 0 "K_31" H 17400 2233 60  0000 C CNN
-F 1 "KEYSW" H 17400 1900 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 17400 2000 60  0001 C CNN
-F 3 "" H 17400 2000 60  0000 C CNN
-	1    17400 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D_31
-U 1 1 00000310
-P 17350 2300
-F 0 "D_31" V 17420 2200 50  0000 R CNN
-F 1 "D" V 17330 2200 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 17050 2250 50  0001 C CNN
-F 3 "~" H 17050 2250 50  0001 C CNN
-	1    17350 2300
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	17550 1950 17800 1950
-Wire Wire Line
-	17350 2150 17350 2200
 Connection ~ 17800 1950
 Text GLabel 900  3400 0    50   Input ~ 0
 row2
@@ -1377,32 +1329,8 @@ Wire Wire Line
 	16350 3150 16350 3200
 Connection ~ 16800 2950
 Connection ~ 16350 3400
-$Comp
-L MX_Alps_Hybrid:MX-NoLED K_46
-U 1 1 00000461
-P 17400 3000
-F 0 "K_46" H 17400 3233 60  0000 C CNN
-F 1 "KEYSW" H 17400 2900 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 17400 3000 60  0001 C CNN
-F 3 "" H 17400 3000 60  0000 C CNN
-	1    17400 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D_46
-U 1 1 00000460
-P 17350 3300
-F 0 "D_46" V 17420 3200 50  0000 R CNN
-F 1 "D" V 17330 3200 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" H 17050 3250 50  0001 C CNN
-F 3 "~" H 17050 3250 50  0001 C CNN
-	1    17350 3300
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	17550 2950 17800 2950
-Wire Wire Line
-	17350 3150 17350 3200
 Connection ~ 17800 2950
 Text GLabel 900  4400 0    50   Input ~ 0
 row3
@@ -2478,72 +2406,126 @@ F 3 "" H 19200 3050 50  0001 C CNN
 	1    19200 3050
 	1    0    0    -1  
 $EndComp
-Text GLabel 18500 2100 0    50   Input ~ 0
-col16
-Text GLabel 18500 2200 0    50   Input ~ 0
-col15
-Text GLabel 18500 2400 0    50   Input ~ 0
-col14
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_46
+U 1 1 60BC42E1
+P 17400 3000
+F 0 "K_46" H 17400 3233 60  0000 C CNN
+F 1 "KEYSW" H 17400 2900 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 17400 3000 60  0001 C CNN
+F 3 "" H 17400 3000 60  0000 C CNN
+	1    17400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_46
+U 1 1 60BC42E7
+P 17350 3300
+F 0 "D_46" V 17420 3200 50  0000 R CNN
+F 1 "D" V 17330 3200 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 17050 3250 50  0001 C CNN
+F 3 "~" H 17050 3250 50  0001 C CNN
+	1    17350 3300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	17350 3150 17350 3200
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_31
+U 1 1 60BDC99E
+P 17400 2000
+F 0 "K_31" H 17400 2233 60  0000 C CNN
+F 1 "KEYSW" H 17400 1900 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 17400 2000 60  0001 C CNN
+F 3 "" H 17400 2000 60  0000 C CNN
+	1    17400 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_31
+U 1 1 60BDC9A4
+P 17350 2300
+F 0 "D_31" V 17420 2200 50  0000 R CNN
+F 1 "D" V 17330 2200 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 17050 2250 50  0001 C CNN
+F 3 "~" H 17050 2250 50  0001 C CNN
+	1    17350 2300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	17350 2150 17350 2200
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_15
+U 1 1 60C0E1CF
+P 17400 1000
+F 0 "K_15" H 17400 1233 60  0000 C CNN
+F 1 "KEYSW" H 17400 900 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 17400 1000 60  0001 C CNN
+F 3 "" H 17400 1000 60  0000 C CNN
+	1    17400 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_15
+U 1 1 60C0E1D5
+P 17350 1300
+F 0 "D_15" V 17420 1200 50  0000 R CNN
+F 1 "D" V 17330 1200 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 17050 1250 50  0001 C CNN
+F 3 "~" H 17050 1250 50  0001 C CNN
+	1    17350 1300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	17350 1150 17350 1200
 Text GLabel 18500 2300 0    50   Input ~ 0
-gnd
-Text GLabel 18500 2500 0    50   Input ~ 0
-col13
-Text GLabel 18500 2600 0    50   Input ~ 0
-col12
-Text GLabel 18500 2700 0    50   Input ~ 0
-col13
-Text GLabel 18500 2900 0    50   Input ~ 0
-col12
-Text GLabel 18500 3000 0    50   Input ~ 0
-col11
-Text GLabel 18500 3100 0    50   Input ~ 0
-col10
-Text GLabel 18500 3200 0    50   Input ~ 0
-col9
-Text GLabel 18500 3300 0    50   Input ~ 0
 gnd
 Text GLabel 18500 2800 0    50   Input ~ 0
 gnd
-Text GLabel 18500 3400 0    50   Input ~ 0
-col9
-Text GLabel 18500 3500 0    50   Input ~ 0
-col8
-Text GLabel 18500 3600 0    50   Input ~ 0
-col7
-Text GLabel 18500 3700 0    50   Input ~ 0
-col6
+Text GLabel 18500 3300 0    50   Input ~ 0
+gnd
 Text GLabel 18500 3800 0    50   Input ~ 0
 gnd
-Text GLabel 18500 3900 0    50   Input ~ 0
-col5
-Text GLabel 18500 4000 0    50   Input ~ 0
-col4
-Text GLabel 19900 4000 2    50   Input ~ 0
-col3
-Text GLabel 19900 3900 2    50   Input ~ 0
-col2
 Text GLabel 19900 3800 2    50   Input ~ 0
-gnd
-Text GLabel 19900 3700 2    50   Input ~ 0
-col1
-Text GLabel 19900 3600 2    50   Input ~ 0
-col0
-Text GLabel 19900 3500 2    50   Input ~ 0
-row0
-Text GLabel 19900 3400 2    50   Input ~ 0
-row1
+gnds
 Text GLabel 19900 3300 2    50   Input ~ 0
 gnd
-Text GLabel 19900 3200 2    50   Input ~ 0
-row2
-Text GLabel 19900 3000 2    50   Input ~ 0
-row3
-Text GLabel 19900 2900 2    50   Input ~ 0
-row4
-Text GLabel 19900 2700 2    50   Input ~ 0
-row5
-Text GLabel 19900 2100 2    50   Input ~ 0
-vbus
 Text GLabel 19900 2300 2    50   Input ~ 0
 gnd
+Text GLabel 19900 2800 2    50   Input ~ 0
+gnd
+Text GLabel 18500 2100 0    50   Input ~ 0
+col0
+Text GLabel 18500 2200 0    50   Input ~ 0
+col1
+Text GLabel 18500 2400 0    50   Input ~ 0
+col2
+Text GLabel 18500 2500 0    50   Input ~ 0
+col3
+Text GLabel 18500 2600 0    50   Input ~ 0
+col4
+Text GLabel 18500 2700 0    50   Input ~ 0
+col5
+Text GLabel 18500 2900 0    50   Input ~ 0
+col6
+Text GLabel 18500 3000 0    50   Input ~ 0
+col7
+Text GLabel 18500 3100 0    50   Input ~ 0
+col8
+Text GLabel 18500 3200 0    50   Input ~ 0
+col9
+Text GLabel 18500 3400 0    50   Input ~ 0
+col10
+Text GLabel 18500 3500 0    50   Input ~ 0
+col11
+Text GLabel 18500 3600 0    50   Input ~ 0
+col12
+Text GLabel 18500 3700 0    50   Input ~ 0
+col13
+Text GLabel 18500 3900 0    50   Input ~ 0
+col14
+Text GLabel 18500 4000 0    50   Input ~ 0
+col15
+Text GLabel 19900 4000 2    50   Input ~ 0
+col16
 $EndSCHEMATC
