@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Envy\Documents\GitHub\Env-KB65M\MainPCB\EnvKB65.sch</source>
-    <date>27/05/2021 03:15:33</date>
+    <date>27/05/2021 03:55:36</date>
     <tool>Eeschema (5.1.9)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -30,6 +30,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000000</tstamp>
@@ -45,6 +48,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000010</tstamp>
@@ -60,6 +66,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000020</tstamp>
@@ -75,6 +84,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000030</tstamp>
@@ -90,6 +102,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000040</tstamp>
@@ -105,6 +120,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000050</tstamp>
@@ -120,6 +138,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000060</tstamp>
@@ -135,6 +156,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000070</tstamp>
@@ -150,6 +174,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000080</tstamp>
@@ -165,6 +192,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000090</tstamp>
@@ -180,6 +210,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000100</tstamp>
@@ -195,6 +228,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000110</tstamp>
@@ -210,6 +246,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000120</tstamp>
@@ -225,6 +264,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000130</tstamp>
@@ -240,6 +282,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000140</tstamp>
@@ -255,6 +300,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000160</tstamp>
@@ -270,6 +318,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000170</tstamp>
@@ -285,6 +336,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000180</tstamp>
@@ -300,6 +354,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000190</tstamp>
@@ -315,6 +372,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000200</tstamp>
@@ -330,6 +390,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000210</tstamp>
@@ -345,6 +408,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000220</tstamp>
@@ -360,6 +426,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000230</tstamp>
@@ -375,6 +444,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000240</tstamp>
@@ -390,6 +462,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000250</tstamp>
@@ -405,6 +480,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000260</tstamp>
@@ -420,6 +498,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000270</tstamp>
@@ -435,6 +516,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000280</tstamp>
@@ -450,6 +534,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000300</tstamp>
@@ -465,6 +552,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000320</tstamp>
@@ -480,6 +570,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000330</tstamp>
@@ -495,6 +588,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000340</tstamp>
@@ -510,6 +606,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000350</tstamp>
@@ -525,6 +624,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000360</tstamp>
@@ -540,6 +642,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000370</tstamp>
@@ -555,6 +660,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000380</tstamp>
@@ -570,6 +678,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000390</tstamp>
@@ -585,6 +696,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000400</tstamp>
@@ -600,6 +714,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000410</tstamp>
@@ -615,6 +732,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000420</tstamp>
@@ -630,6 +750,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000430</tstamp>
@@ -645,6 +768,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000440</tstamp>
@@ -660,6 +786,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000290</tstamp>
@@ -675,6 +804,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000450</tstamp>
@@ -690,6 +822,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000470</tstamp>
@@ -705,6 +840,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000480</tstamp>
@@ -720,6 +858,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000490</tstamp>
@@ -735,6 +876,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000500</tstamp>
@@ -750,6 +894,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000510</tstamp>
@@ -765,6 +912,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000520</tstamp>
@@ -780,6 +930,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000530</tstamp>
@@ -795,6 +948,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000540</tstamp>
@@ -810,6 +966,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000550</tstamp>
@@ -825,6 +984,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000560</tstamp>
@@ -840,6 +1002,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000570</tstamp>
@@ -855,6 +1020,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000580</tstamp>
@@ -870,6 +1038,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000590</tstamp>
@@ -885,6 +1056,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000600</tstamp>
@@ -900,6 +1074,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000610</tstamp>
@@ -915,6 +1092,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000620</tstamp>
@@ -930,6 +1110,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000630</tstamp>
@@ -945,6 +1128,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000640</tstamp>
@@ -960,6 +1146,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000650</tstamp>
@@ -975,6 +1164,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000660</tstamp>
@@ -990,6 +1182,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000670</tstamp>
@@ -1005,6 +1200,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000680</tstamp>
@@ -1020,6 +1218,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000690</tstamp>
@@ -1035,6 +1236,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000700</tstamp>
@@ -1050,6 +1254,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000710</tstamp>
@@ -1065,6 +1272,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000720</tstamp>
@@ -1080,6 +1290,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000730</tstamp>
@@ -1095,6 +1308,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000740</tstamp>
@@ -1110,6 +1326,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000750</tstamp>
@@ -1132,6 +1351,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60BC42E7</tstamp>
@@ -1147,6 +1369,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60BDC9A4</tstamp>
@@ -1162,6 +1387,9 @@
       <value>Diode SOD-323</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60C0E1D5</tstamp>
