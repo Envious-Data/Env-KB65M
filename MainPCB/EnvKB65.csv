@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"K_43,K_28";"MXOnly-2.25U-NoLED";2;"KEYSW";;;
+2;"K_27,K_14";"MXOnly-1.5U-NoLED";2;"KEYSW";;;
+3;"D_27,D_70,D_69,D_68,D_67,D_66,D_65,D_64,D_63,D_62,D_61,D_60,D_59,D_58,D_57,D_56,D_55,D_54,D_53,D_52,D_51,D_50,D_49,D_48,D_47,D_46,D_45,D_44,D_43,D_42,D_40,D_39,D_38,D_37,D_36,D_35,D_34,D_33,D_32,D_31,D_30,D_29,D_28,D_41,D_26,D_25,D_24,D_23,D_22,D_21,D_20,D_19,D_18,D_17,D_16,D_15,D_14,D_13,D_12,D_11,D_10,D_9,D_8,D_7,D_6,D_5,D_4,D_3,D_2,D_1,D_0";"D_SOD-323_HandSoldering";71;"Diode SOD-323";;;
+4;"Ref**";"logo";1;"Val**";;;
+5;"H5,H4,H3,H2,H1,H0";"MountingHole_2.2mm_M2";6;"MountingHole";;;
+6;"U0";"RPi_Pico_SMD_TH";1;"Pico";;;
+7;"K_42";"MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED";1;"KEYSW";;;
+8;"K_64,K_29,K_56";"MXOnly-1.75U-NoLED";3;"KEYSW";;;
+9;"K_65,K_63";"MXOnly-2.25U-ReversedStabilizers-NoLED";2;"KEYSW";;;
+10;"K_71,K_66,K_72,K_70,K_69,K_68,K_67,K_59,K_58,K_57,K_55,K_54,K_53,K_52,K_51,K_50,K_49,K_48,K_47,K_46,K_45,K_41,K_40,K_39,K_38,K_37,K_36,K_35,K_34,K_33,K_32,K_31,K_30,K_26,K_25,K_24,K_23,K_22,K_21,K_20,K_19,K_18,K_17,K_16,K_15,K_12,K_11,K_10,K_9,K_8,K_7,K_6,K_5,K_4,K_3,K_2,K_1,K_0";"MXOnly-1U-NoLED";58;"KEYSW";;;
+11;"K_62,K_61,K_60,K_44";"MXOnly-1.25U-NoLED";4;"KEYSW";;;
+12;"K_13";"MXOnly-2U-NoLED";1;"KEYSW";;;
