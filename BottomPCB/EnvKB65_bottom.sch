@@ -79,17 +79,4 @@ F 3 "~" H 4850 7150 50  0001 C CNN
 	1    4850 7150
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Conn_01x01_Female J1
-U 1 1 60A43BB1
-P 4000 6450
-F 0 "J1" H 4028 6476 50  0000 L CNN
-F 1 "Conn_01x01_Female" H 4028 6385 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 4000 6450 50  0001 C CNN
-F 3 "~" H 4000 6450 50  0001 C CNN
-	1    4000 6450
-	1    0    0    -1  
-$EndComp
-Text GLabel 3800 6450 0    50   Input ~ 0
-GND
 $EndSCHEMATC
