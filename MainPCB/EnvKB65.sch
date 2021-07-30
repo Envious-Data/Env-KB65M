@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A2 23386 16535
+$Descr User 23622 7874
 encoding utf-8
 Sheet 1 1
 Title ""
@@ -2419,68 +2419,68 @@ row0
 $Comp
 L Mechanical:MountingHole H0
 U 1 1 60AC66FB
-P 4850 6150
-F 0 "H0" H 4950 6196 50  0000 L CNN
-F 1 "MountingHole" H 4950 6105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4850 6150 50  0001 C CNN
-F 3 "~" H 4850 6150 50  0001 C CNN
-F 4 "" H 4850 6150 50  0001 C CNN "LCSC part"
-	1    4850 6150
+P 21350 2800
+F 0 "H0" H 21450 2846 50  0000 L CNN
+F 1 "MountingHole" H 21450 2755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 2800 50  0001 C CNN
+F 3 "~" H 21350 2800 50  0001 C CNN
+F 4 "" H 21350 2800 50  0001 C CNN "LCSC part"
+	1    21350 2800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 60ACBE92
-P 4850 6350
-F 0 "H1" H 4950 6396 50  0000 L CNN
-F 1 "MountingHole" H 4950 6305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4850 6350 50  0001 C CNN
-F 3 "~" H 4850 6350 50  0001 C CNN
-	1    4850 6350
+P 21350 3000
+F 0 "H1" H 21450 3046 50  0000 L CNN
+F 1 "MountingHole" H 21450 2955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3000 50  0001 C CNN
+F 3 "~" H 21350 3000 50  0001 C CNN
+	1    21350 3000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 60AE412B
-P 4850 6550
-F 0 "H2" H 4950 6596 50  0000 L CNN
-F 1 "MountingHole" H 4950 6505 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4850 6550 50  0001 C CNN
-F 3 "~" H 4850 6550 50  0001 C CNN
-	1    4850 6550
+P 21350 3200
+F 0 "H2" H 21450 3246 50  0000 L CNN
+F 1 "MountingHole" H 21450 3155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3200 50  0001 C CNN
+F 3 "~" H 21350 3200 50  0001 C CNN
+	1    21350 3200
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 60AFC1C3
-P 4850 6750
-F 0 "H3" H 4950 6796 50  0000 L CNN
-F 1 "MountingHole" H 4950 6705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4850 6750 50  0001 C CNN
-F 3 "~" H 4850 6750 50  0001 C CNN
-	1    4850 6750
+P 21350 3400
+F 0 "H3" H 21450 3446 50  0000 L CNN
+F 1 "MountingHole" H 21450 3355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3400 50  0001 C CNN
+F 3 "~" H 21350 3400 50  0001 C CNN
+	1    21350 3400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 60B142B5
-P 4850 6950
-F 0 "H4" H 4950 6996 50  0000 L CNN
-F 1 "MountingHole" H 4950 6905 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4850 6950 50  0001 C CNN
-F 3 "~" H 4850 6950 50  0001 C CNN
-	1    4850 6950
+P 21350 3600
+F 0 "H4" H 21450 3646 50  0000 L CNN
+F 1 "MountingHole" H 21450 3555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3600 50  0001 C CNN
+F 3 "~" H 21350 3600 50  0001 C CNN
+	1    21350 3600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H5
 U 1 1 60B2C4B8
-P 4850 7150
-F 0 "H5" H 4950 7196 50  0000 L CNN
-F 1 "MountingHole" H 4950 7105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 4850 7150 50  0001 C CNN
-F 3 "~" H 4850 7150 50  0001 C CNN
-	1    4850 7150
+P 21350 3800
+F 0 "H5" H 21450 3846 50  0000 L CNN
+F 1 "MountingHole" H 21450 3755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3800 50  0001 C CNN
+F 3 "~" H 21350 3800 50  0001 C CNN
+	1    21350 3800
 	1    0    0    -1  
 $EndComp
 $Comp
