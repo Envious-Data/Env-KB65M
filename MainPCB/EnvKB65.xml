@@ -2,8 +2,8 @@
 <export version="D">
   <design>
     <source>C:\Users\Envy\Documents\GitHub\Env-KB65M\MainPCB\EnvKB65.sch</source>
-    <date>27/05/2021 03:55:36</date>
-    <tool>Eeschema (5.1.9)-1</tool>
+    <date>04/08/2021 14:13:55</date>
+    <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -273,10 +273,10 @@
     </comp>
     <comp ref="K_14">
       <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000141</tstamp>
+      <tstamp>00000161</tstamp>
     </comp>
     <comp ref="D_14">
       <value>Diode SOD-323</value>
@@ -287,1101 +287,14 @@
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000140</tstamp>
-    </comp>
-    <comp ref="K_16">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000161</tstamp>
-    </comp>
-    <comp ref="D_16">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
       <tstamp>00000160</tstamp>
-    </comp>
-    <comp ref="K_17">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000171</tstamp>
-    </comp>
-    <comp ref="D_17">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000170</tstamp>
-    </comp>
-    <comp ref="K_18">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000181</tstamp>
-    </comp>
-    <comp ref="D_18">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000180</tstamp>
-    </comp>
-    <comp ref="K_19">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000191</tstamp>
-    </comp>
-    <comp ref="D_19">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000190</tstamp>
-    </comp>
-    <comp ref="K_20">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000201</tstamp>
-    </comp>
-    <comp ref="D_20">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000200</tstamp>
-    </comp>
-    <comp ref="K_21">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000211</tstamp>
-    </comp>
-    <comp ref="D_21">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000210</tstamp>
-    </comp>
-    <comp ref="K_22">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000221</tstamp>
-    </comp>
-    <comp ref="D_22">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000220</tstamp>
-    </comp>
-    <comp ref="K_23">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000231</tstamp>
-    </comp>
-    <comp ref="D_23">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000230</tstamp>
-    </comp>
-    <comp ref="K_24">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000241</tstamp>
-    </comp>
-    <comp ref="D_24">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000240</tstamp>
-    </comp>
-    <comp ref="K_25">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000251</tstamp>
-    </comp>
-    <comp ref="D_25">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000250</tstamp>
-    </comp>
-    <comp ref="K_26">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000261</tstamp>
-    </comp>
-    <comp ref="D_26">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000260</tstamp>
-    </comp>
-    <comp ref="K_27">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000271</tstamp>
-    </comp>
-    <comp ref="D_27">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000270</tstamp>
-    </comp>
-    <comp ref="K_28">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000281</tstamp>
-    </comp>
-    <comp ref="D_28">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000280</tstamp>
-    </comp>
-    <comp ref="K_30">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000301</tstamp>
-    </comp>
-    <comp ref="D_30">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000300</tstamp>
-    </comp>
-    <comp ref="K_32">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000321</tstamp>
-    </comp>
-    <comp ref="D_32">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000320</tstamp>
-    </comp>
-    <comp ref="K_33">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000331</tstamp>
-    </comp>
-    <comp ref="D_33">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000330</tstamp>
-    </comp>
-    <comp ref="K_34">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000341</tstamp>
-    </comp>
-    <comp ref="D_34">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000340</tstamp>
-    </comp>
-    <comp ref="K_35">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000351</tstamp>
-    </comp>
-    <comp ref="D_35">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000350</tstamp>
-    </comp>
-    <comp ref="K_36">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000361</tstamp>
-    </comp>
-    <comp ref="D_36">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000360</tstamp>
-    </comp>
-    <comp ref="K_37">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000371</tstamp>
-    </comp>
-    <comp ref="D_37">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000370</tstamp>
-    </comp>
-    <comp ref="K_38">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000381</tstamp>
-    </comp>
-    <comp ref="D_38">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000380</tstamp>
-    </comp>
-    <comp ref="K_39">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000391</tstamp>
-    </comp>
-    <comp ref="D_39">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000390</tstamp>
-    </comp>
-    <comp ref="K_40">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000401</tstamp>
-    </comp>
-    <comp ref="D_40">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000400</tstamp>
-    </comp>
-    <comp ref="K_41">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000411</tstamp>
-    </comp>
-    <comp ref="D_41">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000410</tstamp>
-    </comp>
-    <comp ref="K_42">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000421</tstamp>
-    </comp>
-    <comp ref="D_42">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000420</tstamp>
-    </comp>
-    <comp ref="K_43">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000431</tstamp>
-    </comp>
-    <comp ref="D_43">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000430</tstamp>
-    </comp>
-    <comp ref="K_44">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000441</tstamp>
-    </comp>
-    <comp ref="D_44">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000440</tstamp>
-    </comp>
-    <comp ref="K_29">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000291</tstamp>
-    </comp>
-    <comp ref="D_29">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000290</tstamp>
-    </comp>
-    <comp ref="K_45">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000451</tstamp>
-    </comp>
-    <comp ref="D_45">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000450</tstamp>
-    </comp>
-    <comp ref="K_47">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000471</tstamp>
-    </comp>
-    <comp ref="D_47">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000470</tstamp>
-    </comp>
-    <comp ref="K_48">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000481</tstamp>
-    </comp>
-    <comp ref="D_48">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000480</tstamp>
-    </comp>
-    <comp ref="K_49">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000491</tstamp>
-    </comp>
-    <comp ref="D_49">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000490</tstamp>
-    </comp>
-    <comp ref="K_50">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000501</tstamp>
-    </comp>
-    <comp ref="D_50">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000500</tstamp>
-    </comp>
-    <comp ref="K_51">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000511</tstamp>
-    </comp>
-    <comp ref="D_51">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000510</tstamp>
-    </comp>
-    <comp ref="K_52">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000521</tstamp>
-    </comp>
-    <comp ref="D_52">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000520</tstamp>
-    </comp>
-    <comp ref="K_53">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000531</tstamp>
-    </comp>
-    <comp ref="D_53">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000530</tstamp>
-    </comp>
-    <comp ref="K_54">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000541</tstamp>
-    </comp>
-    <comp ref="D_54">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000540</tstamp>
-    </comp>
-    <comp ref="K_55">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000551</tstamp>
-    </comp>
-    <comp ref="D_55">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000550</tstamp>
-    </comp>
-    <comp ref="K_56">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000561</tstamp>
-    </comp>
-    <comp ref="D_56">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000560</tstamp>
-    </comp>
-    <comp ref="K_57">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000571</tstamp>
-    </comp>
-    <comp ref="D_57">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000570</tstamp>
-    </comp>
-    <comp ref="K_58">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000581</tstamp>
-    </comp>
-    <comp ref="D_58">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000580</tstamp>
-    </comp>
-    <comp ref="K_59">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000591</tstamp>
-    </comp>
-    <comp ref="D_59">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000590</tstamp>
-    </comp>
-    <comp ref="K_60">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000601</tstamp>
-    </comp>
-    <comp ref="D_60">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000600</tstamp>
-    </comp>
-    <comp ref="K_61">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000611</tstamp>
-    </comp>
-    <comp ref="D_61">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000610</tstamp>
-    </comp>
-    <comp ref="K_62">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000621</tstamp>
-    </comp>
-    <comp ref="D_62">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000620</tstamp>
-    </comp>
-    <comp ref="K_63">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000631</tstamp>
-    </comp>
-    <comp ref="D_63">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000630</tstamp>
-    </comp>
-    <comp ref="K_64">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000641</tstamp>
-    </comp>
-    <comp ref="D_64">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000640</tstamp>
-    </comp>
-    <comp ref="K_65">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000651</tstamp>
-    </comp>
-    <comp ref="D_65">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000650</tstamp>
-    </comp>
-    <comp ref="K_66">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000661</tstamp>
-    </comp>
-    <comp ref="D_66">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000660</tstamp>
-    </comp>
-    <comp ref="K_67">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000671</tstamp>
-    </comp>
-    <comp ref="D_67">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000670</tstamp>
-    </comp>
-    <comp ref="K_68">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000681</tstamp>
-    </comp>
-    <comp ref="D_68">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000680</tstamp>
-    </comp>
-    <comp ref="K_69">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000691</tstamp>
-    </comp>
-    <comp ref="D_69">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000690</tstamp>
-    </comp>
-    <comp ref="K_70">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000701</tstamp>
-    </comp>
-    <comp ref="D_70">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000700</tstamp>
-    </comp>
-    <comp ref="K_71">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000711</tstamp>
-    </comp>
-    <comp ref="D_71">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000710</tstamp>
-    </comp>
-    <comp ref="K_72">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000721</tstamp>
-    </comp>
-    <comp ref="D_72">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000720</tstamp>
-    </comp>
-    <comp ref="K_73">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000731</tstamp>
-    </comp>
-    <comp ref="D_73">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000730</tstamp>
-    </comp>
-    <comp ref="K_74">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000741</tstamp>
-    </comp>
-    <comp ref="D_74">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000740</tstamp>
-    </comp>
-    <comp ref="K_75">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000751</tstamp>
-    </comp>
-    <comp ref="D_75">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>00000750</tstamp>
-    </comp>
-    <comp ref="U1">
-      <value>Pico</value>
-      <footprint>MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH</footprint>
-      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60B33D1A</tstamp>
-    </comp>
-    <comp ref="K_46">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BC42E1</tstamp>
-    </comp>
-    <comp ref="D_46">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BC42E7</tstamp>
-    </comp>
-    <comp ref="K_31">
-      <value>KEYSW</value>
-      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BDC99E</tstamp>
-    </comp>
-    <comp ref="D_31">
-      <value>Diode SOD-323</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC part">C727111</field>
-      </fields>
-      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>60BDC9A4</tstamp>
     </comp>
     <comp ref="K_15">
       <value>KEYSW</value>
       <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>60C0E1CF</tstamp>
+      <tstamp>00000171</tstamp>
     </comp>
     <comp ref="D_15">
       <value>Diode SOD-323</value>
@@ -1392,55 +305,1066 @@
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>60C0E1D5</tstamp>
+      <tstamp>00000170</tstamp>
     </comp>
-    <comp ref="H1">
+    <comp ref="K_16">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000181</tstamp>
+    </comp>
+    <comp ref="D_16">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000180</tstamp>
+    </comp>
+    <comp ref="K_17">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000191</tstamp>
+    </comp>
+    <comp ref="D_17">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000190</tstamp>
+    </comp>
+    <comp ref="K_18">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000201</tstamp>
+    </comp>
+    <comp ref="D_18">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000200</tstamp>
+    </comp>
+    <comp ref="K_19">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000211</tstamp>
+    </comp>
+    <comp ref="D_19">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000210</tstamp>
+    </comp>
+    <comp ref="K_20">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000221</tstamp>
+    </comp>
+    <comp ref="D_20">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000220</tstamp>
+    </comp>
+    <comp ref="K_21">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000231</tstamp>
+    </comp>
+    <comp ref="D_21">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000230</tstamp>
+    </comp>
+    <comp ref="K_22">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000241</tstamp>
+    </comp>
+    <comp ref="D_22">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000240</tstamp>
+    </comp>
+    <comp ref="K_23">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000251</tstamp>
+    </comp>
+    <comp ref="D_23">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000250</tstamp>
+    </comp>
+    <comp ref="K_24">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000261</tstamp>
+    </comp>
+    <comp ref="D_24">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000260</tstamp>
+    </comp>
+    <comp ref="K_25">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000271</tstamp>
+    </comp>
+    <comp ref="D_25">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000270</tstamp>
+    </comp>
+    <comp ref="K_26">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000281</tstamp>
+    </comp>
+    <comp ref="D_26">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000280</tstamp>
+    </comp>
+    <comp ref="K_29">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000321</tstamp>
+    </comp>
+    <comp ref="D_28">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000320</tstamp>
+    </comp>
+    <comp ref="K_30">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000331</tstamp>
+    </comp>
+    <comp ref="D_29">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000330</tstamp>
+    </comp>
+    <comp ref="K_31">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000341</tstamp>
+    </comp>
+    <comp ref="D_30">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000340</tstamp>
+    </comp>
+    <comp ref="K_32">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000351</tstamp>
+    </comp>
+    <comp ref="D_31">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000350</tstamp>
+    </comp>
+    <comp ref="K_33">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000361</tstamp>
+    </comp>
+    <comp ref="D_32">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000360</tstamp>
+    </comp>
+    <comp ref="K_34">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000371</tstamp>
+    </comp>
+    <comp ref="D_33">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000370</tstamp>
+    </comp>
+    <comp ref="K_35">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000381</tstamp>
+    </comp>
+    <comp ref="D_34">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000380</tstamp>
+    </comp>
+    <comp ref="K_36">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000391</tstamp>
+    </comp>
+    <comp ref="D_35">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000390</tstamp>
+    </comp>
+    <comp ref="K_37">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000401</tstamp>
+    </comp>
+    <comp ref="D_36">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000400</tstamp>
+    </comp>
+    <comp ref="K_38">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000411</tstamp>
+    </comp>
+    <comp ref="D_37">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000410</tstamp>
+    </comp>
+    <comp ref="K_39">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000421</tstamp>
+    </comp>
+    <comp ref="D_38">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000420</tstamp>
+    </comp>
+    <comp ref="K_40">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000431</tstamp>
+    </comp>
+    <comp ref="D_39">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000430</tstamp>
+    </comp>
+    <comp ref="K_41">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000441</tstamp>
+    </comp>
+    <comp ref="D_40">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000440</tstamp>
+    </comp>
+    <comp ref="K_42">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000291</tstamp>
+    </comp>
+    <comp ref="D_41">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000290</tstamp>
+    </comp>
+    <comp ref="K_44">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000471</tstamp>
+    </comp>
+    <comp ref="D_42">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000470</tstamp>
+    </comp>
+    <comp ref="K_45">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000481</tstamp>
+    </comp>
+    <comp ref="D_43">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000480</tstamp>
+    </comp>
+    <comp ref="K_46">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000491</tstamp>
+    </comp>
+    <comp ref="D_44">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000490</tstamp>
+    </comp>
+    <comp ref="K_47">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000501</tstamp>
+    </comp>
+    <comp ref="D_45">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000500</tstamp>
+    </comp>
+    <comp ref="K_48">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000511</tstamp>
+    </comp>
+    <comp ref="D_46">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000510</tstamp>
+    </comp>
+    <comp ref="K_49">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000521</tstamp>
+    </comp>
+    <comp ref="D_47">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000520</tstamp>
+    </comp>
+    <comp ref="K_50">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000531</tstamp>
+    </comp>
+    <comp ref="D_48">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000530</tstamp>
+    </comp>
+    <comp ref="K_51">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000541</tstamp>
+    </comp>
+    <comp ref="D_49">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000540</tstamp>
+    </comp>
+    <comp ref="K_52">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000551</tstamp>
+    </comp>
+    <comp ref="D_50">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000550</tstamp>
+    </comp>
+    <comp ref="K_53">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000561</tstamp>
+    </comp>
+    <comp ref="D_51">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000560</tstamp>
+    </comp>
+    <comp ref="K_54">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000571</tstamp>
+    </comp>
+    <comp ref="D_52">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000570</tstamp>
+    </comp>
+    <comp ref="K_55">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000581</tstamp>
+    </comp>
+    <comp ref="D_53">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000580</tstamp>
+    </comp>
+    <comp ref="K_56">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000591</tstamp>
+    </comp>
+    <comp ref="D_54">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000590</tstamp>
+    </comp>
+    <comp ref="K_57">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000601</tstamp>
+    </comp>
+    <comp ref="D_55">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000600</tstamp>
+    </comp>
+    <comp ref="K_58">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000611</tstamp>
+    </comp>
+    <comp ref="D_56">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000610</tstamp>
+    </comp>
+    <comp ref="K_59">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000621</tstamp>
+    </comp>
+    <comp ref="D_57">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000620</tstamp>
+    </comp>
+    <comp ref="K_60">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000631</tstamp>
+    </comp>
+    <comp ref="D_58">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000630</tstamp>
+    </comp>
+    <comp ref="K_61">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000641</tstamp>
+    </comp>
+    <comp ref="D_59">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000640</tstamp>
+    </comp>
+    <comp ref="K_62">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000651</tstamp>
+    </comp>
+    <comp ref="D_60">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000650</tstamp>
+    </comp>
+    <comp ref="K_63">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000661</tstamp>
+    </comp>
+    <comp ref="D_61">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000660</tstamp>
+    </comp>
+    <comp ref="K_64">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000671</tstamp>
+    </comp>
+    <comp ref="D_62">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000670</tstamp>
+    </comp>
+    <comp ref="K_65">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000681</tstamp>
+    </comp>
+    <comp ref="D_63">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000680</tstamp>
+    </comp>
+    <comp ref="K_66">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000691</tstamp>
+    </comp>
+    <comp ref="D_64">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000690</tstamp>
+    </comp>
+    <comp ref="K_67">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000701</tstamp>
+    </comp>
+    <comp ref="D_65">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000700</tstamp>
+    </comp>
+    <comp ref="K_68">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000711</tstamp>
+    </comp>
+    <comp ref="D_66">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000710</tstamp>
+    </comp>
+    <comp ref="K_69">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000721</tstamp>
+    </comp>
+    <comp ref="D_67">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000720</tstamp>
+    </comp>
+    <comp ref="K_70">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000731</tstamp>
+    </comp>
+    <comp ref="D_68">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000730</tstamp>
+    </comp>
+    <comp ref="K_71">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000741</tstamp>
+    </comp>
+    <comp ref="D_69">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000740</tstamp>
+    </comp>
+    <comp ref="K_72">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000751</tstamp>
+    </comp>
+    <comp ref="D_70">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000750</tstamp>
+    </comp>
+    <comp ref="U0">
+      <value>Pico</value>
+      <footprint>MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH</footprint>
+      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B33D1A</tstamp>
+    </comp>
+    <comp ref="H0">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60AC66FB</tstamp>
     </comp>
-    <comp ref="H2">
+    <comp ref="H1">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60ACBE92</tstamp>
     </comp>
-    <comp ref="H3">
+    <comp ref="H2">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60AE412B</tstamp>
     </comp>
-    <comp ref="H4">
+    <comp ref="H3">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60AFC1C3</tstamp>
     </comp>
-    <comp ref="H5">
+    <comp ref="H4">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60B142B5</tstamp>
     </comp>
-    <comp ref="H6">
+    <comp ref="H5">
       <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60B2C4B8</tstamp>
+    </comp>
+    <comp ref="K_28">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B5E864</tstamp>
+    </comp>
+    <comp ref="K_27">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60BA9833</tstamp>
+    </comp>
+    <comp ref="D_27">
+      <value>Diode SOD-323</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC part">C727111</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60BDCF36</tstamp>
+    </comp>
+    <comp ref="K_43">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60BFAFDF</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1551,576 +1475,550 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(D_66-Pad2)">
-      <node ref="D_66" pin="2"/>
+    <net code="1" name="Net-(D_64-Pad2)">
+      <node ref="D_64" pin="2"/>
       <node ref="K_66" pin="2"/>
     </net>
-    <net code="2" name="Net-(D_67-Pad2)">
-      <node ref="D_67" pin="2"/>
+    <net code="2" name="Net-(D_63-Pad2)">
+      <node ref="K_65" pin="2"/>
+      <node ref="D_63" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D_65-Pad2)">
+      <node ref="D_65" pin="2"/>
       <node ref="K_67" pin="2"/>
     </net>
-    <net code="3" name="Net-(D_68-Pad2)">
-      <node ref="D_68" pin="2"/>
+    <net code="4" name="Net-(D_59-Pad2)">
+      <node ref="D_59" pin="2"/>
+      <node ref="K_61" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D_60-Pad2)">
+      <node ref="D_60" pin="2"/>
+      <node ref="K_62" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D_66-Pad2)">
+      <node ref="D_66" pin="2"/>
       <node ref="K_68" pin="2"/>
     </net>
-    <net code="4" name="Net-(D_69-Pad2)">
-      <node ref="D_69" pin="2"/>
-      <node ref="K_69" pin="2"/>
-    </net>
-    <net code="5" name="Net-(D_63-Pad2)">
-      <node ref="D_63" pin="2"/>
+    <net code="7" name="Net-(D_61-Pad2)">
+      <node ref="D_61" pin="2"/>
       <node ref="K_63" pin="2"/>
     </net>
-    <net code="6" name="Net-(D_64-Pad2)">
+    <net code="8" name="Net-(D_62-Pad2)">
+      <node ref="D_62" pin="2"/>
       <node ref="K_64" pin="2"/>
-      <node ref="D_64" pin="2"/>
     </net>
-    <net code="7" name="Net-(D_65-Pad2)">
-      <node ref="K_65" pin="2"/>
-      <node ref="D_65" pin="2"/>
-    </net>
-    <net code="8" name="Net-(D_74-Pad2)">
-      <node ref="K_74" pin="2"/>
-      <node ref="D_74" pin="2"/>
-    </net>
-    <net code="9" name="Net-(D_75-Pad2)">
-      <node ref="K_75" pin="2"/>
-      <node ref="D_75" pin="2"/>
-    </net>
-    <net code="10" name="Net-(D_73-Pad2)">
-      <node ref="D_73" pin="2"/>
-      <node ref="K_73" pin="2"/>
-    </net>
-    <net code="11" name="Net-(D_70-Pad2)">
-      <node ref="K_70" pin="2"/>
+    <net code="9" name="Net-(D_70-Pad2)">
+      <node ref="K_72" pin="2"/>
       <node ref="D_70" pin="2"/>
     </net>
-    <net code="12" name="Net-(D_71-Pad2)">
+    <net code="10" name="Net-(D_67-Pad2)">
+      <node ref="K_69" pin="2"/>
+      <node ref="D_67" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D_68-Pad2)">
+      <node ref="K_70" pin="2"/>
+      <node ref="D_68" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D_69-Pad2)">
       <node ref="K_71" pin="2"/>
-      <node ref="D_71" pin="2"/>
+      <node ref="D_69" pin="2"/>
     </net>
-    <net code="13" name="Net-(D_62-Pad2)">
-      <node ref="K_62" pin="2"/>
-      <node ref="D_62" pin="2"/>
+    <net code="13" name="Net-(D_50-Pad2)">
+      <node ref="K_52" pin="2"/>
+      <node ref="D_50" pin="2"/>
     </net>
-    <net code="14" name="Net-(D_72-Pad2)">
-      <node ref="D_72" pin="2"/>
-      <node ref="K_72" pin="2"/>
+    <net code="14" name="Net-(D_51-Pad2)">
+      <node ref="D_51" pin="2"/>
+      <node ref="K_53" pin="2"/>
     </net>
-    <net code="15" name="row4">
-      <node ref="D_70" pin="1"/>
-      <node ref="D_66" pin="1"/>
-      <node ref="U1" pin="22"/>
-      <node ref="D_71" pin="1"/>
-      <node ref="D_72" pin="1"/>
-      <node ref="D_73" pin="1"/>
-      <node ref="D_75" pin="1"/>
-      <node ref="D_63" pin="1"/>
-      <node ref="D_64" pin="1"/>
-      <node ref="D_65" pin="1"/>
-      <node ref="D_69" pin="1"/>
-      <node ref="D_74" pin="1"/>
-      <node ref="D_68" pin="1"/>
-      <node ref="D_67" pin="1"/>
+    <net code="15" name="Net-(D_49-Pad2)">
+      <node ref="D_49" pin="2"/>
+      <node ref="K_51" pin="2"/>
     </net>
     <net code="16" name="Net-(D_52-Pad2)">
       <node ref="D_52" pin="2"/>
-      <node ref="K_52" pin="2"/>
-    </net>
-    <net code="17" name="Net-(D_53-Pad2)">
-      <node ref="K_53" pin="2"/>
-      <node ref="D_53" pin="2"/>
-    </net>
-    <net code="18" name="Net-(D_54-Pad2)">
-      <node ref="D_54" pin="2"/>
       <node ref="K_54" pin="2"/>
     </net>
-    <net code="19" name="Net-(D_55-Pad2)">
-      <node ref="D_55" pin="2"/>
-      <node ref="K_55" pin="2"/>
+    <net code="17" name="Net-(D_46-Pad2)">
+      <node ref="D_46" pin="2"/>
+      <node ref="K_48" pin="2"/>
     </net>
-    <net code="20" name="Net-(D_49-Pad2)">
-      <node ref="D_49" pin="2"/>
+    <net code="18" name="Net-(D_47-Pad2)">
+      <node ref="D_47" pin="2"/>
       <node ref="K_49" pin="2"/>
     </net>
-    <net code="21" name="Net-(D_50-Pad2)">
+    <net code="19" name="Net-(D_48-Pad2)">
+      <node ref="D_48" pin="2"/>
       <node ref="K_50" pin="2"/>
-      <node ref="D_50" pin="2"/>
     </net>
-    <net code="22" name="Net-(D_51-Pad2)">
-      <node ref="K_51" pin="2"/>
-      <node ref="D_51" pin="2"/>
-    </net>
-    <net code="23" name="Net-(D_59-Pad2)">
-      <node ref="K_59" pin="2"/>
-      <node ref="D_59" pin="2"/>
-    </net>
-    <net code="24" name="Net-(D_60-Pad2)">
-      <node ref="D_60" pin="2"/>
-      <node ref="K_60" pin="2"/>
-    </net>
-    <net code="25" name="Net-(D_61-Pad2)">
-      <node ref="D_61" pin="2"/>
-      <node ref="K_61" pin="2"/>
-    </net>
-    <net code="26" name="Net-(D_56-Pad2)">
-      <node ref="D_56" pin="2"/>
-      <node ref="K_56" pin="2"/>
-    </net>
-    <net code="27" name="Net-(D_57-Pad2)">
-      <node ref="D_57" pin="2"/>
-      <node ref="K_57" pin="2"/>
-    </net>
-    <net code="28" name="Net-(D_58-Pad2)">
+    <net code="20" name="Net-(D_56-Pad2)">
       <node ref="K_58" pin="2"/>
+      <node ref="D_56" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D_57-Pad2)">
+      <node ref="D_57" pin="2"/>
+      <node ref="K_59" pin="2"/>
+    </net>
+    <net code="22" name="row4">
+      <node ref="D_66" pin="1"/>
+      <node ref="D_69" pin="1"/>
+      <node ref="D_60" pin="1"/>
+      <node ref="D_59" pin="1"/>
+      <node ref="D_70" pin="1"/>
+      <node ref="D_65" pin="1"/>
+      <node ref="D_64" pin="1"/>
+      <node ref="D_58" pin="1"/>
+      <node ref="D_63" pin="1"/>
+      <node ref="D_62" pin="1"/>
+      <node ref="D_68" pin="1"/>
+      <node ref="D_61" pin="1"/>
+      <node ref="U0" pin="22"/>
+      <node ref="D_67" pin="1"/>
+    </net>
+    <net code="23" name="Net-(D_58-Pad2)">
+      <node ref="K_60" pin="2"/>
       <node ref="D_58" pin="2"/>
     </net>
-    <net code="29" name="Net-(U1-Pad30)">
-      <node ref="U1" pin="30"/>
+    <net code="24" name="Net-(D_54-Pad2)">
+      <node ref="D_54" pin="2"/>
+      <node ref="K_56" pin="2"/>
     </net>
-    <net code="30" name="col1">
-      <node ref="K_1" pin="1"/>
-      <node ref="K_48" pin="1"/>
-      <node ref="K_64" pin="1"/>
-      <node ref="U1" pin="2"/>
+    <net code="25" name="Net-(D_53-Pad2)">
+      <node ref="D_53" pin="2"/>
+      <node ref="K_55" pin="2"/>
     </net>
-    <net code="31" name="col15">
-      <node ref="K_61" pin="1"/>
-      <node ref="K_30" pin="1"/>
-      <node ref="K_74" pin="1"/>
-      <node ref="K_45" pin="1"/>
-      <node ref="K_14" pin="1"/>
-      <node ref="U1" pin="20"/>
+    <net code="26" name="Net-(D_55-Pad2)">
+      <node ref="K_57" pin="2"/>
+      <node ref="D_55" pin="2"/>
     </net>
-    <net code="32" name="col16">
-      <node ref="K_75" pin="1"/>
-      <node ref="K_46" pin="1"/>
-      <node ref="U1" pin="21"/>
-      <node ref="K_62" pin="1"/>
+    <net code="27" name="Net-(U0-Pad43)">
+      <node ref="U0" pin="43"/>
+    </net>
+    <net code="28" name="Net-(U0-Pad32)">
+      <node ref="U0" pin="32"/>
+    </net>
+    <net code="29" name="Net-(U0-Pad34)">
+      <node ref="U0" pin="34"/>
+    </net>
+    <net code="30" name="Net-(U0-Pad35)">
+      <node ref="U0" pin="35"/>
+    </net>
+    <net code="31" name="Net-(U0-Pad36)">
+      <node ref="U0" pin="36"/>
+    </net>
+    <net code="32" name="Net-(U0-Pad37)">
+      <node ref="U0" pin="37"/>
+    </net>
+    <net code="33" name="Net-(U0-Pad39)">
+      <node ref="U0" pin="39"/>
+    </net>
+    <net code="34" name="col2">
+      <node ref="U0" pin="4"/>
+      <node ref="K_2" pin="1"/>
       <node ref="K_15" pin="1"/>
+      <node ref="K_46" pin="1"/>
+      <node ref="K_30" pin="1"/>
+    </net>
+    <net code="35" name="Net-(U0-Pad40)">
+      <node ref="U0" pin="40"/>
+    </net>
+    <net code="36" name="Net-(U0-Pad41)">
+      <node ref="U0" pin="41"/>
+    </net>
+    <net code="37" name="Net-(U0-Pad42)">
+      <node ref="U0" pin="42"/>
+    </net>
+    <net code="38" name="Net-(U0-Pad31)">
+      <node ref="U0" pin="31"/>
+    </net>
+    <net code="39" name="col3">
+      <node ref="K_47" pin="1"/>
+      <node ref="K_16" pin="1"/>
+      <node ref="K_62" pin="1"/>
+      <node ref="U0" pin="5"/>
+      <node ref="K_3" pin="1"/>
       <node ref="K_31" pin="1"/>
     </net>
-    <net code="33" name="row3">
-      <node ref="D_59" pin="1"/>
-      <node ref="D_48" pin="1"/>
-      <node ref="U1" pin="24"/>
-      <node ref="D_47" pin="1"/>
-      <node ref="D_51" pin="1"/>
-      <node ref="D_54" pin="1"/>
-      <node ref="D_53" pin="1"/>
-      <node ref="D_55" pin="1"/>
-      <node ref="D_49" pin="1"/>
-      <node ref="D_50" pin="1"/>
-      <node ref="D_52" pin="1"/>
-      <node ref="D_60" pin="1"/>
-      <node ref="D_56" pin="1"/>
-      <node ref="D_61" pin="1"/>
-      <node ref="D_62" pin="1"/>
-      <node ref="D_57" pin="1"/>
-      <node ref="D_58" pin="1"/>
-    </net>
-    <net code="34" name="row2">
-      <node ref="D_34" pin="1"/>
-      <node ref="D_46" pin="1"/>
-      <node ref="D_41" pin="1"/>
-      <node ref="D_35" pin="1"/>
-      <node ref="D_36" pin="1"/>
-      <node ref="D_40" pin="1"/>
-      <node ref="D_29" pin="1"/>
-      <node ref="D_44" pin="1"/>
-      <node ref="D_45" pin="1"/>
-      <node ref="D_43" pin="1"/>
-      <node ref="D_39" pin="1"/>
-      <node ref="D_37" pin="1"/>
-      <node ref="D_38" pin="1"/>
-      <node ref="D_42" pin="1"/>
-      <node ref="D_33" pin="1"/>
-      <node ref="U1" pin="25"/>
-      <node ref="D_32" pin="1"/>
-    </net>
-    <net code="35" name="row1">
-      <node ref="D_20" pin="1"/>
-      <node ref="D_24" pin="1"/>
-      <node ref="U1" pin="26"/>
-      <node ref="D_21" pin="1"/>
-      <node ref="D_28" pin="1"/>
-      <node ref="D_22" pin="1"/>
-      <node ref="D_19" pin="1"/>
-      <node ref="D_27" pin="1"/>
-      <node ref="D_26" pin="1"/>
-      <node ref="D_23" pin="1"/>
-      <node ref="D_17" pin="1"/>
-      <node ref="D_30" pin="1"/>
-      <node ref="D_31" pin="1"/>
-      <node ref="D_25" pin="1"/>
-      <node ref="D_18" pin="1"/>
-      <node ref="D_16" pin="1"/>
-    </net>
-    <net code="36" name="row0">
-      <node ref="D_2" pin="1"/>
-      <node ref="D_9" pin="1"/>
-      <node ref="D_4" pin="1"/>
-      <node ref="D_7" pin="1"/>
-      <node ref="D_8" pin="1"/>
-      <node ref="D_0" pin="1"/>
-      <node ref="D_1" pin="1"/>
-      <node ref="D_11" pin="1"/>
-      <node ref="U1" pin="27"/>
-      <node ref="D_6" pin="1"/>
-      <node ref="D_5" pin="1"/>
-      <node ref="D_3" pin="1"/>
-      <node ref="D_12" pin="1"/>
-      <node ref="D_13" pin="1"/>
-      <node ref="D_10" pin="1"/>
-      <node ref="D_14" pin="1"/>
-      <node ref="D_15" pin="1"/>
-    </net>
-    <net code="37" name="gnd">
-      <node ref="U1" pin="18"/>
-      <node ref="U1" pin="38"/>
-      <node ref="U1" pin="33"/>
-      <node ref="U1" pin="13"/>
-      <node ref="U1" pin="3"/>
-      <node ref="U1" pin="28"/>
-      <node ref="U1" pin="23"/>
-      <node ref="U1" pin="8"/>
-    </net>
-    <net code="38" name="Net-(U1-Pad29)">
-      <node ref="U1" pin="29"/>
-    </net>
-    <net code="39" name="col14">
-      <node ref="K_13" pin="1"/>
-      <node ref="K_60" pin="1"/>
-      <node ref="K_29" pin="1"/>
-      <node ref="K_73" pin="1"/>
-      <node ref="U1" pin="19"/>
-    </net>
-    <net code="40" name="Net-(U1-Pad31)">
-      <node ref="U1" pin="31"/>
-    </net>
-    <net code="41" name="Net-(U1-Pad32)">
-      <node ref="U1" pin="32"/>
-    </net>
-    <net code="42" name="Net-(U1-Pad34)">
-      <node ref="U1" pin="34"/>
-    </net>
-    <net code="43" name="Net-(U1-Pad35)">
-      <node ref="U1" pin="35"/>
-    </net>
-    <net code="44" name="Net-(U1-Pad36)">
-      <node ref="U1" pin="36"/>
-    </net>
-    <net code="45" name="Net-(U1-Pad37)">
-      <node ref="U1" pin="37"/>
-    </net>
-    <net code="46" name="Net-(U1-Pad39)">
-      <node ref="U1" pin="39"/>
-    </net>
-    <net code="47" name="col2">
-      <node ref="K_33" pin="1"/>
-      <node ref="K_49" pin="1"/>
-      <node ref="K_2" pin="1"/>
+    <net code="40" name="col4">
+      <node ref="U0" pin="6"/>
       <node ref="K_17" pin="1"/>
-      <node ref="U1" pin="4"/>
-    </net>
-    <net code="48" name="Net-(U1-Pad40)">
-      <node ref="U1" pin="40"/>
-    </net>
-    <net code="49" name="Net-(U1-Pad41)">
-      <node ref="U1" pin="41"/>
-    </net>
-    <net code="50" name="Net-(U1-Pad42)">
-      <node ref="U1" pin="42"/>
-    </net>
-    <net code="51" name="col0">
-      <node ref="K_16" pin="1"/>
-      <node ref="K_47" pin="1"/>
-      <node ref="K_32" pin="1"/>
-      <node ref="K_63" pin="1"/>
-      <node ref="K_0" pin="1"/>
-      <node ref="U1" pin="1"/>
-    </net>
-    <net code="52" name="col7">
-      <node ref="K_38" pin="1"/>
-      <node ref="K_54" pin="1"/>
-      <node ref="K_7" pin="1"/>
-      <node ref="K_22" pin="1"/>
-      <node ref="U1" pin="10"/>
-    </net>
-    <net code="53" name="col8">
-      <node ref="U1" pin="11"/>
-      <node ref="K_55" pin="1"/>
-      <node ref="K_23" pin="1"/>
-      <node ref="K_8" pin="1"/>
-      <node ref="K_68" pin="1"/>
-      <node ref="K_39" pin="1"/>
-    </net>
-    <net code="54" name="col9">
-      <node ref="K_56" pin="1"/>
-      <node ref="K_40" pin="1"/>
-      <node ref="K_9" pin="1"/>
-      <node ref="K_24" pin="1"/>
-      <node ref="U1" pin="12"/>
-    </net>
-    <net code="55" name="col10">
-      <node ref="U1" pin="14"/>
-      <node ref="K_57" pin="1"/>
-      <node ref="K_69" pin="1"/>
-      <node ref="K_41" pin="1"/>
-      <node ref="K_10" pin="1"/>
-      <node ref="K_25" pin="1"/>
-    </net>
-    <net code="56" name="col11">
-      <node ref="K_26" pin="1"/>
-      <node ref="K_58" pin="1"/>
-      <node ref="K_42" pin="1"/>
-      <node ref="U1" pin="15"/>
-      <node ref="K_11" pin="1"/>
-      <node ref="K_70" pin="1"/>
-    </net>
-    <net code="57" name="col12">
-      <node ref="K_43" pin="1"/>
-      <node ref="K_59" pin="1"/>
-      <node ref="K_27" pin="1"/>
-      <node ref="K_12" pin="1"/>
-      <node ref="U1" pin="16"/>
-      <node ref="K_71" pin="1"/>
-    </net>
-    <net code="58" name="col13">
-      <node ref="K_28" pin="1"/>
-      <node ref="K_72" pin="1"/>
-      <node ref="K_44" pin="1"/>
-      <node ref="U1" pin="17"/>
-    </net>
-    <net code="59" name="Net-(U1-Pad43)">
-      <node ref="U1" pin="43"/>
-    </net>
-    <net code="60" name="col3">
-      <node ref="K_50" pin="1"/>
-      <node ref="K_34" pin="1"/>
-      <node ref="K_18" pin="1"/>
-      <node ref="K_65" pin="1"/>
-      <node ref="U1" pin="5"/>
-      <node ref="K_3" pin="1"/>
-    </net>
-    <net code="61" name="col4">
-      <node ref="K_51" pin="1"/>
       <node ref="K_4" pin="1"/>
-      <node ref="K_35" pin="1"/>
-      <node ref="K_66" pin="1"/>
-      <node ref="U1" pin="6"/>
-      <node ref="K_19" pin="1"/>
+      <node ref="K_63" pin="1"/>
+      <node ref="K_32" pin="1"/>
+      <node ref="K_48" pin="1"/>
     </net>
-    <net code="62" name="col5">
+    <net code="41" name="col5">
+      <node ref="K_49" pin="1"/>
+      <node ref="U0" pin="7"/>
       <node ref="K_5" pin="1"/>
+      <node ref="K_18" pin="1"/>
+      <node ref="K_33" pin="1"/>
+    </net>
+    <net code="42" name="col6">
+      <node ref="K_34" pin="1"/>
+      <node ref="K_64" pin="1"/>
+      <node ref="K_19" pin="1"/>
+      <node ref="K_50" pin="1"/>
+      <node ref="U0" pin="9"/>
+      <node ref="K_6" pin="1"/>
+    </net>
+    <net code="43" name="col15">
+      <node ref="K_58" pin="1"/>
+      <node ref="K_71" pin="1"/>
+      <node ref="U0" pin="20"/>
+    </net>
+    <net code="44" name="col0">
+      <node ref="K_43" pin="1"/>
+      <node ref="K_60" pin="1"/>
+      <node ref="K_0" pin="1"/>
+      <node ref="U0" pin="1"/>
+      <node ref="K_44" pin="1"/>
+      <node ref="K_14" pin="1"/>
+      <node ref="K_29" pin="1"/>
+    </net>
+    <net code="45" name="col7">
+      <node ref="K_51" pin="1"/>
+      <node ref="K_7" pin="1"/>
+      <node ref="K_35" pin="1"/>
+      <node ref="U0" pin="10"/>
       <node ref="K_20" pin="1"/>
-      <node ref="U1" pin="7"/>
+    </net>
+    <net code="46" name="col8">
+      <node ref="K_8" pin="1"/>
+      <node ref="K_65" pin="1"/>
       <node ref="K_36" pin="1"/>
+      <node ref="K_21" pin="1"/>
+      <node ref="U0" pin="11"/>
       <node ref="K_52" pin="1"/>
     </net>
-    <net code="63" name="col6">
-      <node ref="K_53" pin="1"/>
-      <node ref="K_67" pin="1"/>
-      <node ref="K_6" pin="1"/>
-      <node ref="U1" pin="9"/>
-      <node ref="K_21" pin="1"/>
+    <net code="47" name="col9">
       <node ref="K_37" pin="1"/>
+      <node ref="K_22" pin="1"/>
+      <node ref="K_53" pin="1"/>
+      <node ref="K_9" pin="1"/>
+      <node ref="U0" pin="12"/>
     </net>
-    <net code="64" name="Net-(D_46-Pad2)">
-      <node ref="K_46" pin="2"/>
-      <node ref="D_46" pin="2"/>
+    <net code="48" name="col10">
+      <node ref="K_10" pin="1"/>
+      <node ref="K_23" pin="1"/>
+      <node ref="K_38" pin="1"/>
+      <node ref="K_54" pin="1"/>
+      <node ref="U0" pin="14"/>
+      <node ref="K_66" pin="1"/>
     </net>
-    <net code="65" name="Net-(D_31-Pad2)">
-      <node ref="K_31" pin="2"/>
-      <node ref="D_31" pin="2"/>
+    <net code="49" name="col11">
+      <node ref="K_39" pin="1"/>
+      <node ref="K_11" pin="1"/>
+      <node ref="K_55" pin="1"/>
+      <node ref="K_24" pin="1"/>
+      <node ref="K_67" pin="1"/>
+      <node ref="U0" pin="15"/>
     </net>
-    <net code="66" name="Net-(D_15-Pad2)">
-      <node ref="K_15" pin="2"/>
-      <node ref="D_15" pin="2"/>
+    <net code="50" name="col12">
+      <node ref="K_40" pin="1"/>
+      <node ref="U0" pin="16"/>
+      <node ref="K_25" pin="1"/>
+      <node ref="K_56" pin="1"/>
+      <node ref="K_68" pin="1"/>
+      <node ref="K_12" pin="1"/>
     </net>
-    <net code="67" name="Net-(D_13-Pad2)">
-      <node ref="D_13" pin="2"/>
+    <net code="51" name="col13">
+      <node ref="U0" pin="17"/>
+      <node ref="K_41" pin="1"/>
+      <node ref="K_26" pin="1"/>
+      <node ref="K_69" pin="1"/>
+    </net>
+    <net code="52" name="col14">
+      <node ref="U0" pin="19"/>
+      <node ref="K_57" pin="1"/>
+      <node ref="K_28" pin="1"/>
+      <node ref="K_70" pin="1"/>
+      <node ref="K_42" pin="1"/>
+      <node ref="K_13" pin="1"/>
+      <node ref="K_27" pin="1"/>
+    </net>
+    <net code="53" name="col1">
+      <node ref="K_1" pin="1"/>
+      <node ref="K_45" pin="1"/>
+      <node ref="U0" pin="2"/>
+      <node ref="K_61" pin="1"/>
+    </net>
+    <net code="54" name="col16">
+      <node ref="K_59" pin="1"/>
+      <node ref="U0" pin="21"/>
+      <node ref="K_72" pin="1"/>
+    </net>
+    <net code="55" name="row3">
+      <node ref="D_57" pin="1"/>
+      <node ref="D_55" pin="1"/>
+      <node ref="D_52" pin="1"/>
+      <node ref="D_48" pin="1"/>
+      <node ref="D_44" pin="1"/>
+      <node ref="D_45" pin="1"/>
+      <node ref="D_47" pin="1"/>
+      <node ref="D_50" pin="1"/>
+      <node ref="D_43" pin="1"/>
+      <node ref="D_42" pin="1"/>
+      <node ref="D_54" pin="1"/>
+      <node ref="D_49" pin="1"/>
+      <node ref="D_56" pin="1"/>
+      <node ref="D_46" pin="1"/>
+      <node ref="D_51" pin="1"/>
+      <node ref="D_53" pin="1"/>
+      <node ref="U0" pin="24"/>
+    </net>
+    <net code="56" name="row2">
+      <node ref="D_41" pin="1"/>
+      <node ref="U0" pin="25"/>
+      <node ref="D_28" pin="1"/>
+      <node ref="D_29" pin="1"/>
+      <node ref="D_35" pin="1"/>
+      <node ref="D_38" pin="1"/>
+      <node ref="D_37" pin="1"/>
+      <node ref="D_39" pin="1"/>
+      <node ref="D_34" pin="1"/>
+      <node ref="D_40" pin="1"/>
+      <node ref="D_36" pin="1"/>
+      <node ref="D_30" pin="1"/>
+      <node ref="D_32" pin="1"/>
+      <node ref="D_33" pin="1"/>
+      <node ref="D_31" pin="1"/>
+    </net>
+    <net code="57" name="row1">
+      <node ref="D_21" pin="1"/>
+      <node ref="D_27" pin="1"/>
+      <node ref="D_14" pin="1"/>
+      <node ref="D_16" pin="1"/>
+      <node ref="D_19" pin="1"/>
+      <node ref="D_15" pin="1"/>
+      <node ref="D_23" pin="1"/>
+      <node ref="D_22" pin="1"/>
+      <node ref="D_17" pin="1"/>
+      <node ref="D_20" pin="1"/>
+      <node ref="D_24" pin="1"/>
+      <node ref="D_25" pin="1"/>
+      <node ref="D_18" pin="1"/>
+      <node ref="D_26" pin="1"/>
+      <node ref="U0" pin="26"/>
+    </net>
+    <net code="58" name="row0">
+      <node ref="D_12" pin="1"/>
+      <node ref="D_13" pin="1"/>
+      <node ref="D_11" pin="1"/>
+      <node ref="D_6" pin="1"/>
+      <node ref="D_0" pin="1"/>
+      <node ref="D_4" pin="1"/>
+      <node ref="D_3" pin="1"/>
+      <node ref="D_10" pin="1"/>
+      <node ref="D_1" pin="1"/>
+      <node ref="D_9" pin="1"/>
+      <node ref="U0" pin="27"/>
+      <node ref="D_2" pin="1"/>
+      <node ref="D_8" pin="1"/>
+      <node ref="D_7" pin="1"/>
+      <node ref="D_5" pin="1"/>
+    </net>
+    <net code="59" name="Net-(U0-Pad29)">
+      <node ref="U0" pin="29"/>
+    </net>
+    <net code="60" name="gnd">
+      <node ref="U0" pin="23"/>
+      <node ref="U0" pin="3"/>
+      <node ref="U0" pin="28"/>
+      <node ref="U0" pin="33"/>
+      <node ref="U0" pin="38"/>
+      <node ref="U0" pin="13"/>
+      <node ref="U0" pin="8"/>
+      <node ref="U0" pin="18"/>
+    </net>
+    <net code="61" name="Net-(U0-Pad30)">
+      <node ref="U0" pin="30"/>
+    </net>
+    <net code="62" name="Net-(D_27-Pad2)">
+      <node ref="D_27" pin="2"/>
+      <node ref="K_27" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D_12-Pad2)">
+      <node ref="K_12" pin="2"/>
+      <node ref="D_12" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D_13-Pad2)">
       <node ref="K_13" pin="2"/>
+      <node ref="D_13" pin="2"/>
     </net>
-    <net code="68" name="Net-(D_14-Pad2)">
-      <node ref="D_14" pin="2"/>
+    <net code="65" name="Net-(D_14-Pad2)">
       <node ref="K_14" pin="2"/>
+      <node ref="D_14" pin="2"/>
     </net>
-    <net code="69" name="Net-(D_10-Pad2)">
+    <net code="66" name="Net-(D_10-Pad2)">
       <node ref="K_10" pin="2"/>
       <node ref="D_10" pin="2"/>
     </net>
-    <net code="70" name="Net-(D_11-Pad2)">
+    <net code="67" name="Net-(D_11-Pad2)">
       <node ref="D_11" pin="2"/>
       <node ref="K_11" pin="2"/>
     </net>
-    <net code="71" name="Net-(D_12-Pad2)">
-      <node ref="D_12" pin="2"/>
-      <node ref="K_12" pin="2"/>
-    </net>
-    <net code="72" name="Net-(D_19-Pad2)">
-      <node ref="D_19" pin="2"/>
-      <node ref="K_19" pin="2"/>
-    </net>
-    <net code="73" name="Net-(D_20-Pad2)">
-      <node ref="K_20" pin="2"/>
-      <node ref="D_20" pin="2"/>
-    </net>
-    <net code="74" name="Net-(D_21-Pad2)">
-      <node ref="K_21" pin="2"/>
-      <node ref="D_21" pin="2"/>
-    </net>
-    <net code="75" name="Net-(D_16-Pad2)">
-      <node ref="K_16" pin="2"/>
-      <node ref="D_16" pin="2"/>
-    </net>
-    <net code="76" name="Net-(D_17-Pad2)">
-      <node ref="K_17" pin="2"/>
-      <node ref="D_17" pin="2"/>
-    </net>
-    <net code="77" name="Net-(D_18-Pad2)">
+    <net code="68" name="Net-(D_18-Pad2)">
       <node ref="D_18" pin="2"/>
       <node ref="K_18" pin="2"/>
     </net>
-    <net code="78" name="Net-(D_3-Pad2)">
-      <node ref="D_3" pin="2"/>
-      <node ref="K_3" pin="2"/>
+    <net code="69" name="Net-(D_17-Pad2)">
+      <node ref="K_17" pin="2"/>
+      <node ref="D_17" pin="2"/>
     </net>
-    <net code="79" name="Net-(D_2-Pad2)">
+    <net code="70" name="Net-(D_19-Pad2)">
+      <node ref="D_19" pin="2"/>
+      <node ref="K_19" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D_20-Pad2)">
+      <node ref="K_20" pin="2"/>
+      <node ref="D_20" pin="2"/>
+    </net>
+    <net code="72" name="Net-(D_15-Pad2)">
+      <node ref="D_15" pin="2"/>
+      <node ref="K_15" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D_16-Pad2)">
+      <node ref="D_16" pin="2"/>
+      <node ref="K_16" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D_2-Pad2)">
       <node ref="D_2" pin="2"/>
       <node ref="K_2" pin="2"/>
     </net>
-    <net code="80" name="Net-(D_4-Pad2)">
+    <net code="75" name="Net-(D_3-Pad2)">
+      <node ref="K_3" pin="2"/>
+      <node ref="D_3" pin="2"/>
+    </net>
+    <net code="76" name="Net-(D_4-Pad2)">
       <node ref="D_4" pin="2"/>
       <node ref="K_4" pin="2"/>
     </net>
-    <net code="81" name="Net-(D_0-Pad2)">
-      <node ref="K_0" pin="2"/>
+    <net code="77" name="Net-(D_0-Pad2)">
       <node ref="D_0" pin="2"/>
+      <node ref="K_0" pin="2"/>
     </net>
-    <net code="82" name="Net-(D_1-Pad2)">
-      <node ref="K_1" pin="2"/>
+    <net code="78" name="Net-(D_1-Pad2)">
       <node ref="D_1" pin="2"/>
+      <node ref="K_1" pin="2"/>
     </net>
-    <net code="83" name="Net-(D_7-Pad2)">
+    <net code="79" name="Net-(D_7-Pad2)">
       <node ref="K_7" pin="2"/>
       <node ref="D_7" pin="2"/>
     </net>
-    <net code="84" name="Net-(D_8-Pad2)">
+    <net code="80" name="Net-(D_8-Pad2)">
       <node ref="K_8" pin="2"/>
       <node ref="D_8" pin="2"/>
     </net>
-    <net code="85" name="Net-(D_9-Pad2)">
+    <net code="81" name="Net-(D_9-Pad2)">
       <node ref="K_9" pin="2"/>
       <node ref="D_9" pin="2"/>
     </net>
-    <net code="86" name="Net-(D_5-Pad2)">
-      <node ref="D_5" pin="2"/>
+    <net code="82" name="Net-(D_5-Pad2)">
       <node ref="K_5" pin="2"/>
+      <node ref="D_5" pin="2"/>
     </net>
-    <net code="87" name="Net-(D_6-Pad2)">
-      <node ref="D_6" pin="2"/>
+    <net code="83" name="Net-(D_6-Pad2)">
       <node ref="K_6" pin="2"/>
+      <node ref="D_6" pin="2"/>
     </net>
-    <net code="88" name="Net-(D_40-Pad2)">
-      <node ref="D_40" pin="2"/>
-      <node ref="K_40" pin="2"/>
-    </net>
-    <net code="89" name="Net-(D_41-Pad2)">
-      <node ref="K_41" pin="2"/>
-      <node ref="D_41" pin="2"/>
-    </net>
-    <net code="90" name="Net-(D_42-Pad2)">
-      <node ref="D_42" pin="2"/>
-      <node ref="K_42" pin="2"/>
-    </net>
-    <net code="91" name="Net-(D_37-Pad2)">
-      <node ref="K_37" pin="2"/>
-      <node ref="D_37" pin="2"/>
-    </net>
-    <net code="92" name="Net-(D_38-Pad2)">
+    <net code="84" name="Net-(D_38-Pad2)">
       <node ref="D_38" pin="2"/>
+      <node ref="K_39" pin="2"/>
+    </net>
+    <net code="85" name="Net-(D_37-Pad2)">
+      <node ref="D_37" pin="2"/>
       <node ref="K_38" pin="2"/>
     </net>
-    <net code="93" name="Net-(D_39-Pad2)">
-      <node ref="K_39" pin="2"/>
+    <net code="86" name="Net-(D_39-Pad2)">
       <node ref="D_39" pin="2"/>
+      <node ref="K_40" pin="2"/>
     </net>
-    <net code="94" name="Net-(D_45-Pad2)">
-      <node ref="D_45" pin="2"/>
-      <node ref="K_45" pin="2"/>
+    <net code="87" name="Net-(D_34-Pad2)">
+      <node ref="D_34" pin="2"/>
+      <node ref="K_35" pin="2"/>
     </net>
-    <net code="95" name="Net-(D_47-Pad2)">
-      <node ref="D_47" pin="2"/>
-      <node ref="K_47" pin="2"/>
-    </net>
-    <net code="96" name="Net-(D_48-Pad2)">
-      <node ref="D_48" pin="2"/>
-      <node ref="K_48" pin="2"/>
-    </net>
-    <net code="97" name="Net-(D_43-Pad2)">
-      <node ref="D_43" pin="2"/>
-      <node ref="K_43" pin="2"/>
-    </net>
-    <net code="98" name="Net-(D_44-Pad2)">
-      <node ref="K_44" pin="2"/>
-      <node ref="D_44" pin="2"/>
-    </net>
-    <net code="99" name="Net-(D_36-Pad2)">
-      <node ref="D_36" pin="2"/>
+    <net code="88" name="Net-(D_35-Pad2)">
+      <node ref="D_35" pin="2"/>
       <node ref="K_36" pin="2"/>
     </net>
-    <net code="100" name="Net-(D_29-Pad2)">
-      <node ref="K_29" pin="2"/>
-      <node ref="D_29" pin="2"/>
+    <net code="89" name="Net-(D_36-Pad2)">
+      <node ref="K_37" pin="2"/>
+      <node ref="D_36" pin="2"/>
     </net>
-    <net code="101" name="Net-(D_25-Pad2)">
+    <net code="90" name="Net-(D_43-Pad2)">
+      <node ref="K_45" pin="2"/>
+      <node ref="D_43" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D_44-Pad2)">
+      <node ref="D_44" pin="2"/>
+      <node ref="K_46" pin="2"/>
+    </net>
+    <net code="92" name="Net-(D_45-Pad2)">
+      <node ref="K_47" pin="2"/>
+      <node ref="D_45" pin="2"/>
+    </net>
+    <net code="93" name="Net-(D_40-Pad2)">
+      <node ref="K_41" pin="2"/>
+      <node ref="D_40" pin="2"/>
+    </net>
+    <net code="94" name="Net-(D_41-Pad2)">
+      <node ref="K_28" pin="2"/>
+      <node ref="D_41" pin="2"/>
+      <node ref="K_42" pin="2"/>
+    </net>
+    <net code="95" name="Net-(D_42-Pad2)">
+      <node ref="D_42" pin="2"/>
+      <node ref="K_44" pin="2"/>
+      <node ref="K_43" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D_24-Pad2)">
+      <node ref="K_24" pin="2"/>
+      <node ref="D_24" pin="2"/>
+    </net>
+    <net code="97" name="Net-(D_25-Pad2)">
       <node ref="D_25" pin="2"/>
       <node ref="K_25" pin="2"/>
     </net>
-    <net code="102" name="Net-(D_26-Pad2)">
-      <node ref="K_26" pin="2"/>
+    <net code="98" name="Net-(D_26-Pad2)">
       <node ref="D_26" pin="2"/>
+      <node ref="K_26" pin="2"/>
     </net>
-    <net code="103" name="Net-(D_27-Pad2)">
-      <node ref="K_27" pin="2"/>
-      <node ref="D_27" pin="2"/>
+    <net code="99" name="Net-(D_21-Pad2)">
+      <node ref="K_21" pin="2"/>
+      <node ref="D_21" pin="2"/>
     </net>
-    <net code="104" name="Net-(D_28-Pad2)">
-      <node ref="K_28" pin="2"/>
-      <node ref="D_28" pin="2"/>
-    </net>
-    <net code="105" name="Net-(D_22-Pad2)">
+    <net code="100" name="Net-(D_22-Pad2)">
       <node ref="K_22" pin="2"/>
       <node ref="D_22" pin="2"/>
     </net>
-    <net code="106" name="Net-(D_23-Pad2)">
-      <node ref="K_23" pin="2"/>
+    <net code="101" name="Net-(D_23-Pad2)">
       <node ref="D_23" pin="2"/>
+      <node ref="K_23" pin="2"/>
     </net>
-    <net code="107" name="Net-(D_24-Pad2)">
-      <node ref="D_24" pin="2"/>
-      <node ref="K_24" pin="2"/>
+    <net code="102" name="Net-(D_31-Pad2)">
+      <node ref="K_32" pin="2"/>
+      <node ref="D_31" pin="2"/>
     </net>
-    <net code="108" name="Net-(D_33-Pad2)">
-      <node ref="D_33" pin="2"/>
+    <net code="103" name="Net-(D_32-Pad2)">
+      <node ref="D_32" pin="2"/>
       <node ref="K_33" pin="2"/>
     </net>
-    <net code="109" name="Net-(D_34-Pad2)">
-      <node ref="D_34" pin="2"/>
+    <net code="104" name="Net-(D_33-Pad2)">
+      <node ref="D_33" pin="2"/>
       <node ref="K_34" pin="2"/>
     </net>
-    <net code="110" name="Net-(D_35-Pad2)">
-      <node ref="K_35" pin="2"/>
-      <node ref="D_35" pin="2"/>
+    <net code="105" name="Net-(D_28-Pad2)">
+      <node ref="D_28" pin="2"/>
+      <node ref="K_29" pin="2"/>
     </net>
-    <net code="111" name="Net-(D_30-Pad2)">
-      <node ref="D_30" pin="2"/>
+    <net code="106" name="Net-(D_29-Pad2)">
+      <node ref="D_29" pin="2"/>
       <node ref="K_30" pin="2"/>
     </net>
-    <net code="112" name="Net-(D_32-Pad2)">
-      <node ref="K_32" pin="2"/>
-      <node ref="D_32" pin="2"/>
+    <net code="107" name="Net-(D_30-Pad2)">
+      <node ref="K_31" pin="2"/>
+      <node ref="D_30" pin="2"/>
     </net>
   </nets>
 </export>
