@@ -2345,49 +2345,49 @@ Wire Wire Line
 	14050 10750 14050 11750
 Wire Wire Line
 	16050 10750 16050 11750
-Text GLabel 6700 3100 2    50   Input ~ 0
+Text GLabel 6650 3200 2    50   Input ~ 0
 col0
-Text GLabel 6700 3200 2    50   Input ~ 0
+Text GLabel 6650 3100 2    50   Input ~ 0
 col1
-Text GLabel 6700 3600 2    50   Input ~ 0
+Text GLabel 6650 3000 2    50   Input ~ 0
 col2
-Text GLabel 6700 4100 2    50   Input ~ 0
+Text GLabel 6650 2900 2    50   Input ~ 0
 col3
-Text GLabel 6700 4200 2    50   Input ~ 0
+Text GLabel 6650 5100 2    50   Input ~ 0
 col4
-Text GLabel 6700 5800 2    50   Input ~ 0
+Text GLabel 6650 3800 2    50   Input ~ 0
 col5
-Text GLabel 6700 5700 2    50   Input ~ 0
+Text GLabel 6650 3900 2    50   Input ~ 0
 col6
-Text GLabel 6700 5600 2    50   Input ~ 0
+Text GLabel 6650 5000 2    50   Input ~ 0
 col7
-Text GLabel 6700 5500 2    50   Input ~ 0
+Text GLabel 6650 5800 2    50   Input ~ 0
 col8
-Text GLabel 6700 5400 2    50   Input ~ 0
+Text GLabel 6650 5700 2    50   Input ~ 0
 col9
-Text GLabel 6700 5300 2    50   Input ~ 0
+Text GLabel 6650 5600 2    50   Input ~ 0
 col10
-Text GLabel 6700 5100 2    50   Input ~ 0
+Text GLabel 6650 5500 2    50   Input ~ 0
 col11
-Text GLabel 6700 2900 2    50   Input ~ 0
+Text GLabel 6650 5400 2    50   Input ~ 0
 col12
-Text GLabel 6700 3000 2    50   Input ~ 0
+Text GLabel 6650 5300 2    50   Input ~ 0
 col13
-Text GLabel 6700 4300 2    50   Input ~ 0
+Text GLabel 6650 3500 2    50   Input ~ 0
 col14
-Text GLabel 6700 4400 2    50   Input ~ 0
+Text GLabel 6650 4100 2    50   Input ~ 0
 col15
-Text GLabel 6700 4600 2    50   Input ~ 0
+Text GLabel 6650 4200 2    50   Input ~ 0
 col16
-Text GLabel 9000 5250 2    50   Input ~ 0
+Text GLabel 6650 4600 2    50   Input ~ 0
 row4
-Text GLabel 9000 5050 2    50   Input ~ 0
+Text GLabel 6650 4700 2    50   Input ~ 0
 row3
-Text GLabel 9000 4950 2    50   Input ~ 0
+Text GLabel 6650 4800 2    50   Input ~ 0
 row2
-Text GLabel 9000 4850 2    50   Input ~ 0
+Text GLabel 6650 3300 2    50   Input ~ 0
 row1
-Text GLabel 9000 4750 2    50   Input ~ 0
+Text GLabel 6650 3400 2    50   Input ~ 0
 row0
 $Comp
 L Mechanical:MountingHole_Pad H0
@@ -2544,7 +2544,7 @@ U 1 1 5EDB7D8D
 P 1000 1750
 F 0 "e1" H 750 2150 50  0000 R CNN
 F 1 "TYPE-C-31-M-12" H 1250 950 50  0000 R CNN
-F 2 "HRO-TYPE-C31-M-12:HRO-TYPE-C-31-M-12" H 1150 1700 50  0001 C CNN
+F 2 "HRO-TYPE-C31-M-12:HRO-TYPE-C-31-M-12-Assembly" H 1150 1700 50  0001 C CNN
 F 3 "" H 1150 1700 50  0001 C CNN
 	1    1000 1750
 	1    0    0    -1  
@@ -2992,43 +2992,34 @@ Wire Wire Line
 $Comp
 L Switch:SW_Push RSW1
 U 1 1 610FBDD2
-P 4750 2900
-F 0 "RSW1" H 4750 3185 50  0000 C CNN
-F 1 "SKRK" H 4750 3094 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" H 4750 3100 50  0001 C CNN
-F 3 "~" H 4750 3100 50  0001 C CNN
-	1    4750 2900
+P 4450 2900
+F 0 "RSW1" H 4450 3185 50  0000 C CNN
+F 1 "SKRK" H 4450 3094 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" H 4450 3100 50  0001 C CNN
+F 3 "~" H 4450 3100 50  0001 C CNN
+	1    4450 2900
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR01
 U 1 1 610FC4BB
-P 4500 2900
-F 0 "#PWR01" H 4500 2650 50  0001 C CNN
-F 1 "GND" V 4505 2772 50  0000 R CNN
-F 2 "" H 4500 2900 50  0001 C CNN
-F 3 "" H 4500 2900 50  0001 C CNN
-	1    4500 2900
+P 4200 2900
+F 0 "#PWR01" H 4200 2650 50  0001 C CNN
+F 1 "GND" V 4205 2772 50  0000 R CNN
+F 2 "" H 4200 2900 50  0001 C CNN
+F 3 "" H 4200 2900 50  0001 C CNN
+	1    4200 2900
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4500 2900 4550 2900
+	4200 2900 4250 2900
 Wire Wire Line
 	5250 2600 5250 2900
 Connection ~ 5250 2900
 Wire Wire Line
-	5250 2900 5050 2900
-Wire Wire Line
 	5200 2350 5250 2350
 Wire Wire Line
 	5250 2350 5250 2400
-Text Label 5050 2850 2    50   ~ 0
-RUN
-Wire Wire Line
-	5050 2900 5050 2850
-Connection ~ 5050 2900
-Wire Wire Line
-	5050 2900 4950 2900
 Wire Wire Line
 	6050 1000 6150 1000
 Wire Wire Line
@@ -3328,14 +3319,29 @@ Connection ~ 21350 13750
 Wire Wire Line
 	21350 13750 22050 13750
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0103
 U 1 1 612BC941
 P 22050 13850
-F 0 "#PWR?" H 22050 13600 50  0001 C CNN
+F 0 "#PWR0103" H 22050 13600 50  0001 C CNN
 F 1 "GND" H 22055 13677 50  0000 C CNN
 F 2 "" H 22050 13850 50  0001 C CNN
 F 3 "" H 22050 13850 50  0001 C CNN
 	1    22050 13850
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R_Small R2
+U 1 1 6120126F
+P 4800 2900
+F 0 "R2" H 4859 2946 50  0000 L CNN
+F 1 "330r 0402" H 4859 2855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 4800 2900 50  0001 C CNN
+F 3 "~" H 4800 2900 50  0001 C CNN
+	1    4800 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 2900 4650 2900
+Wire Wire Line
+	4900 2900 5250 2900
 $EndSCHEMATC
