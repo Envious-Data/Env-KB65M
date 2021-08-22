@@ -3353,7 +3353,7 @@ U 1 1 60CE2DD4
 P 14800 7000
 F 0 "J5" H 14880 7042 50  0000 L CNN
 F 1 "Conn_01x03_Male" H 14880 6951 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 14800 7000 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal" H 14800 7000 50  0001 C CNN
 F 3 "" H 14800 7000 50  0001 C CNN
 	1    14800 7000
 	1    0    0    -1  
@@ -4021,132 +4021,202 @@ $EndComp
 Wire Wire Line
 	4250 1750 4150 1750
 Connection ~ 4150 1750
-Text Label 10900 4400 0    50   ~ 0
+Text Label 9750 4400 0    50   ~ 0
 GPIO0
-Text Label 10900 4500 0    50   ~ 0
+Text Label 9750 4500 0    50   ~ 0
 GPIO1
-Text Label 10900 4600 0    50   ~ 0
+Text Label 9750 4600 0    50   ~ 0
 GPIO2
-Text Label 10900 4700 0    50   ~ 0
+Text Label 9750 4700 0    50   ~ 0
 GPIO3
-Text Label 10900 4800 0    50   ~ 0
+Text Label 9750 4800 0    50   ~ 0
 GPIO4
-Text Label 10900 4900 0    50   ~ 0
+Text Label 9750 4900 0    50   ~ 0
 GPIO5
-Text Label 10900 5000 0    50   ~ 0
+Text Label 9750 5000 0    50   ~ 0
 GPIO6
-Text Label 10900 5100 0    50   ~ 0
+Text Label 9750 5100 0    50   ~ 0
 GPIO7
-Text Label 10900 5200 0    50   ~ 0
+Text Label 9750 5200 0    50   ~ 0
 GPIO8
-Text Label 10900 5300 0    50   ~ 0
+Text Label 9750 5300 0    50   ~ 0
 GPIO9
-Text Label 10900 5400 0    50   ~ 0
+Text Label 9750 5400 0    50   ~ 0
 GPIO10
-Text Label 10900 5500 0    50   ~ 0
+Text Label 9750 5500 0    50   ~ 0
 GPIO11
-Text Label 10900 5600 0    50   ~ 0
+Text Label 9750 5600 0    50   ~ 0
 GPIO12
-Text Label 10900 5700 0    50   ~ 0
+Text Label 9750 5700 0    50   ~ 0
 GPIO13
-Text Label 10900 5800 0    50   ~ 0
+Text Label 9750 5800 0    50   ~ 0
 GPIO14
-Text Label 10900 5900 0    50   ~ 0
+Text Label 9750 5900 0    50   ~ 0
 GPIO15
-Text Label 10900 6000 0    50   ~ 0
+Text Label 9750 6000 0    50   ~ 0
 GPIO16
-Text Label 10900 6100 0    50   ~ 0
+Text Label 9750 6100 0    50   ~ 0
 GPIO17
-Text Label 10900 6200 0    50   ~ 0
+Text Label 9750 6200 0    50   ~ 0
 GPIO18
-Text Label 10900 6300 0    50   ~ 0
+Text Label 9750 6300 0    50   ~ 0
 GPIO19
-Text Label 10900 6400 0    50   ~ 0
+Text Label 9750 6400 0    50   ~ 0
 GPIO20
-Text Label 10900 6500 0    50   ~ 0
+Text Label 9750 6500 0    50   ~ 0
 GPIO21
-Text Label 10900 6600 0    50   ~ 0
+Text Label 9750 6600 0    50   ~ 0
 GPIO22
-Text Label 10900 6700 0    50   ~ 0
+Text Label 9750 6700 0    50   ~ 0
 GPIO23
-Text Label 10900 6800 0    50   ~ 0
+Text Label 9750 6800 0    50   ~ 0
 GPIO24
-Text Label 10900 6900 0    50   ~ 0
+Text Label 9750 6900 0    50   ~ 0
 GPIO25
-Text Label 10900 7100 0    50   ~ 0
+Text Label 9750 7100 0    50   ~ 0
 GPIO26_ADC0
-Text Label 10900 7200 0    50   ~ 0
+Text Label 9750 7200 0    50   ~ 0
 GPIO27_ADC1
-Text Label 10900 7300 0    50   ~ 0
+Text Label 9750 7300 0    50   ~ 0
 GPIO28_ADC2
-Text Label 10900 7400 0    50   ~ 0
+Text Label 9750 7400 0    50   ~ 0
 GPIO29_ADC3
 Wire Wire Line
-	10900 7400 11450 7400
+	9750 7400 10300 7400
 Wire Wire Line
-	10900 7300 11450 7300
+	9750 7300 10300 7300
 Wire Wire Line
-	10900 7200 11450 7200
+	9750 7200 10300 7200
 Wire Wire Line
-	10900 7100 11450 7100
+	9750 7100 10300 7100
 Wire Wire Line
-	10900 6900 11450 6900
+	9750 6900 10300 6900
 Wire Wire Line
-	10900 6800 11450 6800
+	9750 6800 10300 6800
 Wire Wire Line
-	10900 6700 11450 6700
+	9750 6700 10300 6700
 Wire Wire Line
-	10900 6600 11450 6600
+	9750 6600 10300 6600
 Wire Wire Line
-	10900 6500 11450 6500
+	9750 6500 10300 6500
 Wire Wire Line
-	10900 6400 11450 6400
+	9750 6400 10300 6400
 Wire Wire Line
-	10900 6300 11450 6300
+	9750 6300 10300 6300
 Wire Wire Line
-	10900 6200 11450 6200
+	9750 6200 10300 6200
 Wire Wire Line
-	10900 6100 11450 6100
+	9750 6100 10300 6100
 Wire Wire Line
-	10900 6000 11450 6000
+	9750 6000 10300 6000
 Wire Wire Line
-	10900 5900 11450 5900
+	9750 5900 10300 5900
 Wire Wire Line
-	10900 5800 11450 5800
+	9750 5800 10300 5800
 Wire Wire Line
-	10900 5700 11450 5700
+	9750 5700 10300 5700
 Wire Wire Line
-	10900 5600 11450 5600
+	9750 5600 10300 5600
 Wire Wire Line
-	10900 5500 11450 5500
+	9750 5500 10300 5500
 Wire Wire Line
-	10900 5400 11450 5400
+	9750 5400 10300 5400
 Wire Wire Line
-	10900 5300 11450 5300
+	9750 5300 10300 5300
 Wire Wire Line
-	10900 5200 11450 5200
+	9750 5200 10300 5200
 Wire Wire Line
-	10900 5100 11450 5100
+	9750 5100 10300 5100
 Wire Wire Line
-	11450 5000 10900 5000
+	10300 5000 9750 5000
 Wire Wire Line
-	10900 4900 11450 4900
+	9750 4900 10300 4900
 Wire Wire Line
-	10900 4800 11450 4800
+	9750 4800 10300 4800
 Wire Wire Line
-	10900 4700 11450 4700
+	9750 4700 10300 4700
 Wire Wire Line
-	10900 4600 11450 4600
+	9750 4600 10300 4600
 Wire Wire Line
-	10900 4500 11450 4500
+	9750 4500 10300 4500
 Wire Wire Line
-	10900 4400 11450 4400
+	9750 4400 10300 4400
 Wire Wire Line
 	14650 7600 14850 7600
-NoConn ~ 11450 6700
-NoConn ~ 11450 6800
-NoConn ~ 11450 6900
-NoConn ~ 11450 7400
+NoConn ~ 10300 6700
+NoConn ~ 10300 6800
+NoConn ~ 10300 6900
+NoConn ~ 10300 7400
 Wire Wire Line
 	11400 2400 11750 2400
+Text GLabel 10300 7300 2    50   Input ~ 0
+col0
+Text GLabel 10300 7200 2    50   Input ~ 0
+col1
+Text GLabel 10300 7100 2    50   Input ~ 0
+col2
+Text GLabel 10300 6600 2    50   Input ~ 0
+col3
+Text GLabel 10300 6500 2    50   Input ~ 0
+col4
+Text GLabel 10300 6400 2    50   Input ~ 0
+col5
+Text GLabel 10300 6300 2    50   Input ~ 0
+col6
+Text GLabel 10300 6200 2    50   Input ~ 0
+col7
+Text GLabel 10300 6100 2    50   Input ~ 0
+col8
+Text GLabel 10300 6000 2    50   Input ~ 0
+col9
+Text GLabel 10300 5900 2    50   Input ~ 0
+col10
+Text GLabel 10300 5800 2    50   Input ~ 0
+col11
+Text GLabel 10300 5700 2    50   Input ~ 0
+col12
+Text GLabel 10300 5600 2    50   Input ~ 0
+col13
+Text GLabel 10300 5500 2    50   Input ~ 0
+col14
+Text GLabel 10300 4500 2    50   Input ~ 0
+col16
+Text GLabel 10300 4400 2    50   Input ~ 0
+col15
+Text GLabel 10300 5400 2    50   Input ~ 0
+row0
+Text GLabel 10300 5300 2    50   Input ~ 0
+row1
+Text GLabel 10300 5200 2    50   Input ~ 0
+row2
+Text GLabel 10300 5100 2    50   Input ~ 0
+row3
+Text GLabel 10300 5000 2    50   Input ~ 0
+row4
+$Comp
+L Switch:SW_Push J1
+U 1 1 617489D7
+P 5800 6500
+F 0 "J1" H 5850 6650 50  0000 C CNN
+F 1 "SKRKAEE020" H 5800 6400 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" H 5800 6500 50  0001 C CNN
+F 3 "" H 5800 6500 50  0001 C CNN
+	1    5800 6500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 61749B7F
+P 5550 6450
+F 0 "#PWR0110" H 5550 6200 50  0001 C CNN
+F 1 "GND" H 5555 6277 50  0000 C CNN
+F 2 "" H 5550 6450 50  0001 C CNN
+F 3 "" H 5550 6450 50  0001 C CNN
+	1    5550 6450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5600 6500 5550 6500
+Wire Wire Line
+	5550 6500 5550 6450
 $EndSCHEMATC
