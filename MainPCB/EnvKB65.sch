@@ -2422,7 +2422,7 @@ U 1 1 60AC66FB
 P 21350 2800
 F 0 "H0" H 21450 2846 50  0000 L CNN
 F 1 "MountingHole" H 21450 2755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 2800 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 2800 50  0001 C CNN
 F 3 "~" H 21350 2800 50  0001 C CNN
 F 4 "" H 21350 2800 50  0001 C CNN "LCSC part"
 	1    21350 2800
@@ -2434,7 +2434,7 @@ U 1 1 60ACBE92
 P 21350 3000
 F 0 "H1" H 21450 3046 50  0000 L CNN
 F 1 "MountingHole" H 21450 2955 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3000 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3000 50  0001 C CNN
 F 3 "~" H 21350 3000 50  0001 C CNN
 	1    21350 3000
 	1    0    0    -1  
@@ -2445,7 +2445,7 @@ U 1 1 60AE412B
 P 21350 3200
 F 0 "H2" H 21450 3246 50  0000 L CNN
 F 1 "MountingHole" H 21450 3155 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3200 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3200 50  0001 C CNN
 F 3 "~" H 21350 3200 50  0001 C CNN
 	1    21350 3200
 	1    0    0    -1  
@@ -2456,7 +2456,7 @@ U 1 1 60AFC1C3
 P 21350 3400
 F 0 "H3" H 21450 3446 50  0000 L CNN
 F 1 "MountingHole" H 21450 3355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3400 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3400 50  0001 C CNN
 F 3 "~" H 21350 3400 50  0001 C CNN
 	1    21350 3400
 	1    0    0    -1  
@@ -2467,7 +2467,7 @@ U 1 1 60B142B5
 P 21350 3600
 F 0 "H4" H 21450 3646 50  0000 L CNN
 F 1 "MountingHole" H 21450 3555 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3600 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3600 50  0001 C CNN
 F 3 "~" H 21350 3600 50  0001 C CNN
 	1    21350 3600
 	1    0    0    -1  
@@ -2478,7 +2478,7 @@ U 1 1 60B2C4B8
 P 21350 3800
 F 0 "H5" H 21450 3846 50  0000 L CNN
 F 1 "MountingHole" H 21450 3755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 21350 3800 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3800 50  0001 C CNN
 F 3 "~" H 21350 3800 50  0001 C CNN
 	1    21350 3800
 	1    0    0    -1  
@@ -2565,4 +2565,20 @@ Wire Wire Line
 	16800 650  16800 3950
 Wire Wire Line
 	17800 650  17800 3950
+Text GLabel 20100 3200 2    50   Input ~ 0
+GPIO22
+Text GLabel 20100 3000 2    50   Input ~ 0
+GPIO26
+Text GLabel 20100 2900 2    50   Input ~ 0
+GPIO27
+Text GLabel 20100 2700 2    50   Input ~ 0
+GPIO28
+Wire Wire Line
+	19900 3200 20100 3200
+Wire Wire Line
+	19900 3000 20100 3000
+Wire Wire Line
+	20100 2900 19900 2900
+Wire Wire Line
+	19900 2700 20100 2700
 $EndSCHEMATC
