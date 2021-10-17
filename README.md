@@ -2,7 +2,7 @@
  A 65% Custom Mechanical Keyboard.
  
  Project Name: KB65M
- Nickname: 
+ Nickname: Carpet65
   
 ### About
 Like all my other Keyboard designs this uses a Raspberry Pi Pico however this is a 65%, it has most of the same keys as the main part of a TKL but squashed in just a bit.
