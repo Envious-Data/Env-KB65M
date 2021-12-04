@@ -1,6 +1,6 @@
 "Comment","Designator","Footprint","LCSC Part #"
 "Diode SOD-323","D_0,D_1,D_2,D_3,D_4,D_5,D_6,D_7,D_8,D_9,D_10,D_11,D_12,D_13,D_14,D_15,D_16,D_17,D_18,D_19,D_20,D_21,D_22,D_23,D_24,D_25,D_26,D_28,D_29,D_30,D_31,D_32,D_33,D_34,D_35,D_36,D_37,D_38,D_39,D_40,D_41,D_42,D_43,D_44,D_45,D_46,D_47,D_48,D_49,D_50,D_51,D_52,D_53,D_54,D_55,D_56,D_57,D_58,D_59,D_60,D_61,D_62,D_63,D_64,D_65,D_66,D_67,D_68,D_69,D_70,D_27","D_SOD-323_HandSoldering","C727111"
-"MountingHole","H0,H1,H2,H3,H4,H5","MountingHole_4.3mm_M4","no_part_number"
+"MountingHole","H0,H1,H2,H3,H4,H5","MountingHole_2.2mm_M2_Pad_Via","no_part_number"
 "KEYSW","K_0,K_1,K_2,K_3,K_4,K_5,K_6,K_7,K_8,K_9,K_10,K_11,K_12,K_13,K_14,K_15,K_16,K_17,K_18,K_19,K_20,K_21,K_22,K_23,K_24,K_25,K_26,K_29,K_30,K_31,K_32,K_33,K_34,K_35,K_36,K_37,K_38,K_39,K_40,K_41,K_42,K_44,K_45,K_46,K_47,K_48,K_49,K_50,K_51,K_52,K_53,K_54,K_55,K_56,K_57,K_58,K_59,K_60,K_61,K_62,K_63,K_64,K_65,K_66,K_67,K_68,K_69,K_70,K_71,K_72,K_28,K_27,K_43","MXOnly-1U-Hotswap-Modified","no_part_number"
 "STABILIZER","ST1,ST2,ST3,ST4,ST5,ST6","Stabilizer_Cherry_MX_2u","no_part_number"
 "Pico","U0","RPi_Pico_SMD_TH","no_part_number"
