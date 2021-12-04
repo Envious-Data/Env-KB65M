@@ -2356,22 +2356,6 @@ F 3 "" H 19200 3050 50  0001 C CNN
 	1    19200 3050
 	1    0    0    -1  
 $EndComp
-Text GLabel 18500 2300 0    50   Input ~ 0
-gnd
-Text GLabel 18500 2800 0    50   Input ~ 0
-gnd
-Text GLabel 18500 3300 0    50   Input ~ 0
-gnd
-Text GLabel 18500 3800 0    50   Input ~ 0
-gnd
-Text GLabel 19900 3800 2    50   Input ~ 0
-gnd
-Text GLabel 19900 3300 2    50   Input ~ 0
-gnd
-Text GLabel 19900 2300 2    50   Input ~ 0
-gnd
-Text GLabel 19900 2800 2    50   Input ~ 0
-gnd
 Text GLabel 18500 2100 0    50   Input ~ 0
 col0
 Text GLabel 18500 2200 0    50   Input ~ 0
@@ -2417,70 +2401,70 @@ row1
 Text GLabel 19900 3400 2    50   Input ~ 0
 row0
 $Comp
-L Mechanical:MountingHole H0
+L Mechanical:MountingHole_Pad H0
 U 1 1 60AC66FB
 P 21350 2800
 F 0 "H0" H 21450 2846 50  0000 L CNN
-F 1 "MountingHole" H 21450 2755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 2800 50  0001 C CNN
+F 1 "MountingHole" H 21450 2755 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 21350 2800 50  0001 C CNN
 F 3 "~" H 21350 2800 50  0001 C CNN
 F 4 "" H 21350 2800 50  0001 C CNN "LCSC part"
 	1    21350 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H1
+L Mechanical:MountingHole_Pad H1
 U 1 1 60ACBE92
-P 21350 3000
-F 0 "H1" H 21450 3046 50  0000 L CNN
-F 1 "MountingHole" H 21450 2955 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3000 50  0001 C CNN
-F 3 "~" H 21350 3000 50  0001 C CNN
-	1    21350 3000
+P 21650 2800
+F 0 "H1" H 21750 2846 50  0000 L CNN
+F 1 "MountingHole" H 21750 2755 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 21650 2800 50  0001 C CNN
+F 3 "~" H 21650 2800 50  0001 C CNN
+	1    21650 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
+L Mechanical:MountingHole_Pad H2
 U 1 1 60AE412B
-P 21350 3200
-F 0 "H2" H 21450 3246 50  0000 L CNN
-F 1 "MountingHole" H 21450 3155 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3200 50  0001 C CNN
-F 3 "~" H 21350 3200 50  0001 C CNN
-	1    21350 3200
+P 21950 2800
+F 0 "H2" H 22050 2846 50  0000 L CNN
+F 1 "MountingHole" H 22050 2755 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 21950 2800 50  0001 C CNN
+F 3 "~" H 21950 2800 50  0001 C CNN
+	1    21950 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H3
+L Mechanical:MountingHole_Pad H3
 U 1 1 60AFC1C3
-P 21350 3400
-F 0 "H3" H 21450 3446 50  0000 L CNN
-F 1 "MountingHole" H 21450 3355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3400 50  0001 C CNN
-F 3 "~" H 21350 3400 50  0001 C CNN
-	1    21350 3400
+P 22250 2800
+F 0 "H3" H 22350 2846 50  0000 L CNN
+F 1 "MountingHole" H 22350 2755 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 22250 2800 50  0001 C CNN
+F 3 "~" H 22250 2800 50  0001 C CNN
+	1    22250 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H4
+L Mechanical:MountingHole_Pad H4
 U 1 1 60B142B5
-P 21350 3600
-F 0 "H4" H 21450 3646 50  0000 L CNN
-F 1 "MountingHole" H 21450 3555 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3600 50  0001 C CNN
-F 3 "~" H 21350 3600 50  0001 C CNN
-	1    21350 3600
+P 22550 2800
+F 0 "H4" H 22650 2846 50  0000 L CNN
+F 1 "MountingHole" H 22650 2755 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 22550 2800 50  0001 C CNN
+F 3 "~" H 22550 2800 50  0001 C CNN
+	1    22550 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H5
+L Mechanical:MountingHole_Pad H5
 U 1 1 60B2C4B8
-P 21350 3800
-F 0 "H5" H 21450 3846 50  0000 L CNN
-F 1 "MountingHole" H 21450 3755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4" H 21350 3800 50  0001 C CNN
-F 3 "~" H 21350 3800 50  0001 C CNN
-	1    21350 3800
+P 22850 2800
+F 0 "H5" H 22950 2846 50  0000 L CNN
+F 1 "MountingHole" H 22950 2755 50  0001 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 22850 2800 50  0001 C CNN
+F 3 "~" H 22850 2800 50  0001 C CNN
+	1    22850 2800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2646,5 +2630,121 @@ F 2 "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u" H 20600 5450 50  0001
 F 3 "~" H 20600 5450 50  0001 C CNN
 	1    20600 5450
 	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22850 2900 22550 2900
+Wire Wire Line
+	21350 2900 21350 3050
+Connection ~ 21350 2900
+Connection ~ 21650 2900
+Wire Wire Line
+	21650 2900 21350 2900
+Connection ~ 21950 2900
+Wire Wire Line
+	21950 2900 21650 2900
+Connection ~ 22250 2900
+Wire Wire Line
+	22250 2900 21950 2900
+Connection ~ 22550 2900
+Wire Wire Line
+	22550 2900 22250 2900
+$Comp
+L power:GND #PWR0101
+U 1 1 61B0431C
+P 21350 3050
+F 0 "#PWR0101" H 21350 2800 50  0001 C CNN
+F 1 "GND" H 21355 2877 50  0000 C CNN
+F 2 "" H 21350 3050 50  0001 C CNN
+F 3 "" H 21350 3050 50  0001 C CNN
+	1    21350 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 61B236DA
+P 19900 3800
+F 0 "#PWR0102" H 19900 3550 50  0001 C CNN
+F 1 "GND" H 19905 3627 50  0000 C CNN
+F 2 "" H 19900 3800 50  0001 C CNN
+F 3 "" H 19900 3800 50  0001 C CNN
+	1    19900 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 61B24681
+P 19900 3300
+F 0 "#PWR0103" H 19900 3050 50  0001 C CNN
+F 1 "GND" H 19905 3127 50  0000 C CNN
+F 2 "" H 19900 3300 50  0001 C CNN
+F 3 "" H 19900 3300 50  0001 C CNN
+	1    19900 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 61B24A55
+P 19900 2800
+F 0 "#PWR0104" H 19900 2550 50  0001 C CNN
+F 1 "GND" H 19905 2627 50  0000 C CNN
+F 2 "" H 19900 2800 50  0001 C CNN
+F 3 "" H 19900 2800 50  0001 C CNN
+	1    19900 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 61B24DE3
+P 19900 2300
+F 0 "#PWR0105" H 19900 2050 50  0001 C CNN
+F 1 "GND" H 19905 2127 50  0000 C CNN
+F 2 "" H 19900 2300 50  0001 C CNN
+F 3 "" H 19900 2300 50  0001 C CNN
+	1    19900 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 61B252A3
+P 18500 2300
+F 0 "#PWR0106" H 18500 2050 50  0001 C CNN
+F 1 "GND" H 18505 2127 50  0000 C CNN
+F 2 "" H 18500 2300 50  0001 C CNN
+F 3 "" H 18500 2300 50  0001 C CNN
+	1    18500 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 61B25CF7
+P 18500 2800
+F 0 "#PWR0107" H 18500 2550 50  0001 C CNN
+F 1 "GND" H 18505 2627 50  0000 C CNN
+F 2 "" H 18500 2800 50  0001 C CNN
+F 3 "" H 18500 2800 50  0001 C CNN
+	1    18500 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 61B26405
+P 18500 3300
+F 0 "#PWR0108" H 18500 3050 50  0001 C CNN
+F 1 "GND" H 18505 3127 50  0000 C CNN
+F 2 "" H 18500 3300 50  0001 C CNN
+F 3 "" H 18500 3300 50  0001 C CNN
+	1    18500 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 61B26828
+P 18500 3800
+F 0 "#PWR0109" H 18500 3550 50  0001 C CNN
+F 1 "GND" H 18505 3627 50  0000 C CNN
+F 2 "" H 18500 3800 50  0001 C CNN
+F 3 "" H 18500 3800 50  0001 C CNN
+	1    18500 3800
+	0    1    1    0   
 $EndComp
 $EndSCHEMATC
