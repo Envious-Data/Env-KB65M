@@ -26,3 +26,4 @@ _autosave-*
 !_Gerbers/*
 !_Gerbers/*/*
 MainPCB-HOTSWAP/EnvKB65HS-backups/*
+MainPCB/EnvKB65-backups/*
