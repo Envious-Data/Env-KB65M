@@ -2,12 +2,17 @@
  A 65% Custom Mechanical Keyboard.
  
  Project Name: KB65M
- Nickname: Carpet65
+ Nickname:
   
 ### About
-Like all my other Keyboard designs this uses a Raspberry Pi Pico however this is a 65%, it has most of the same keys as the main part of a TKL but squashed in just a bit.
-This features a 3 split spacebar which instead can fit a single 6.25u, there are also 4 spare GPIOs, you can run one I2C device off of or 3 analogue devices.
+A compact 65% design featuring ISO and ANSI layout support as well as a triple split spacebar.
 
-This does have mechboards logos on it as I made this on a whim based on something David from mechboards said.
+### Firmware
+There is a zip in the _firmware folder to be used with circuitpython 6.3.0 which you can extract to the root directory of your pico once circuitpython is flashed.
+
+If you are looking for QMK you can find the code [here](https://github.com/Envious-Data/EnvKB-QMK), this repo is meant to be used with [KarlK90's branch of QMK](https://github.com/KarlK90/qmk_firmware/tree/feature/raspberry-pi-rp2040-support).
+
+###where to buy
+[Mechboards UK](http://Mechboards.co.uk)
 
 ![Image of PCB](EnvKB65.jpg)
