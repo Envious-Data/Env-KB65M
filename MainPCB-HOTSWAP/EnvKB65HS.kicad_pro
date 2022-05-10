@@ -56,7 +56,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "ignore",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
