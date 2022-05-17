@@ -27,5 +27,5 @@ _autosave-*
 !_Gerbers/*/*
 MainPCB-HOTSWAP/EnvKB65HS-backups/*
 MainPCB/EnvKB65-backups/*
-BottomPCB/EnvKB65_bottom-backups/
-BottomPCB/EnvKB65_bottom-backups/*.zip
+BottomPCB/EnvKB65_bottom-backups/*
+TopPCB/EnvKB65-SwitchPlate-backups/*
